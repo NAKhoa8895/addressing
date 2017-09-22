@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hau Giang Province"
+    ],
+    "subdivisions": { 
+        "Long My Town": {
+             "local_code": "Thị xã Long Mỹ",
+             "iso_code": "VN-73-1"
+        },
+        "Vi Thanh City": {
+             "local_code": "Thành phố Vị Thanh",
+             "iso_code": "VN-73-1"
+        },
+        "Nga Bay Town": {
+             "local_code": "Thị xã Ngã Bảy",
+             "iso_code": "VN-73-1"
+        },
+        "Phung Hiep District": {
+             "local_code": "Huyện Phụng Hiệp",
+             "iso_code": "VN-73-1"
+        },
+        "Chau Thanh A District": {
+             "local_code": "Huyện Châu Thành A",
+             "iso_code": "VN-73-1"
+        },
+        "Vi Thuy District": {
+             "local_code": "Huyện Vị Thuỷ",
+             "iso_code": "VN-73-1"
+        },
+        "Long My District": {
+             "local_code": "Huyện Long Mỹ",
+             "iso_code": "VN-73-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-73-1"
+        }
+    } 
+} 

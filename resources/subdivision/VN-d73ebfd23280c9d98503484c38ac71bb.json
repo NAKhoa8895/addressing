@@ -1,0 +1,69 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Long An Province"
+    ],
+    "subdivisions": { 
+        "Tan An City": {
+             "local_code": "Thành phố Tân An",
+             "iso_code": "VN-41-1"
+        },
+        "Ben Luc District": {
+             "local_code": "Huyện Bến Lức",
+             "iso_code": "VN-41-1"
+        },
+        "Can Duoc District": {
+             "local_code": "Huyện Cần Đước",
+             "iso_code": "VN-41-1"
+        },
+        "Duc Hue District": {
+             "local_code": "Huyện Đức Huệ",
+             "iso_code": "VN-41-1"
+        },
+        "Can Giuoc District": {
+             "local_code": "Huyện Cần Giuộc",
+             "iso_code": "VN-41-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-41-1"
+        },
+        "Duc Hoa District": {
+             "local_code": "Huyện Đức Hòa",
+             "iso_code": "VN-41-1"
+        },
+        "Vinh Hung District": {
+             "local_code": "Huyện Vĩnh Hưng",
+             "iso_code": "VN-41-1"
+        },
+        "Thanh Hoa District": {
+             "local_code": "Huyện Thạnh Hóa",
+             "iso_code": "VN-41-1"
+        },
+        "Tan Thanh District": {
+             "local_code": "Huyện Tân Thạnh",
+             "iso_code": "VN-41-1"
+        },
+        "Tan Hung District": {
+             "local_code": "Huyện Tân Hưng",
+             "iso_code": "VN-41-1"
+        },
+        "Moc Hoa District": {
+             "local_code": "Huyện Mộc Hóa",
+             "iso_code": "VN-41-1"
+        },
+        "Kien Tuong Town": {
+             "local_code": "Thị xã Kiến Tường",
+             "iso_code": "VN-41-1"
+        },
+        "Tan Tru District": {
+             "local_code": "Huyện Tân Trụ",
+             "iso_code": "VN-41-1"
+        },
+        "Thu Thua District": {
+             "local_code": "Huyện Thủ Thừa",
+             "iso_code": "VN-41-1"
+        }
+    } 
+} 

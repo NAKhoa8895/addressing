@@ -125,6 +125,7 @@ class AddressFormat
                 throw new \InvalidArgumentException(sprintf('Missing required property %s.', $requiredProperty));
             }
         }
+        
         // Add defaults for properties that are allowed to be empty.
         $definition += [
             'locale' => null,

@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quang Binh Province"
+    ],
+    "subdivisions": { 
+        "Dong Hoi City": {
+             "local_code": "Thành phố Đồng Hới",
+             "iso_code": "VN-24-1"
+        },
+        "Le Thuy District": {
+             "local_code": "Huyện Lệ Thủy",
+             "iso_code": "VN-24-1"
+        },
+        "Bo Trach District": {
+             "local_code": "Huyện Bố Trạch",
+             "iso_code": "VN-24-1"
+        },
+        "Ba Don Town": {
+             "local_code": "Thị xã Ba Đồn",
+             "iso_code": "VN-24-1"
+        },
+        "Tuyen Hoa District": {
+             "local_code": "Huyện Tuyên Hóa",
+             "iso_code": "VN-24-1"
+        },
+        "Quang Ninh District": {
+             "local_code": "Huyện Quảng Ninh",
+             "iso_code": "VN-24-1"
+        },
+        "Minh Hoa District": {
+             "local_code": "Huyện Minh Hóa",
+             "iso_code": "VN-24-1"
+        },
+        "Quang Trach District": {
+             "local_code": "Huyện Quảng Trạch",
+             "iso_code": "VN-24-1"
+        }
+    } 
+} 

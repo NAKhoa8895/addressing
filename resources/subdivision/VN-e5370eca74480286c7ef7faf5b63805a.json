@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ninh Thuan Province"
+    ],
+    "subdivisions": { 
+        "Ninh Son District": {
+             "local_code": "Huyện Ninh Sơn",
+             "iso_code": "VN-36-1"
+        },
+        "Phan Rang-Thap Cham City": {
+             "local_code": "Thành phố Phan Rang – Tháp Chàm",
+             "iso_code": "VN-36-1"
+        },
+        "Ninh Hai District": {
+             "local_code": "Huyện Ninh Hải",
+             "iso_code": "VN-36-1"
+        },
+        "Ninh Phuoc District": {
+             "local_code": "Huyện Ninh Phước",
+             "iso_code": "VN-36-1"
+        },
+        "Bac Ai District": {
+             "local_code": "Huyện Bác Ái",
+             "iso_code": "VN-36-1"
+        },
+        "Thuan Nam District": {
+             "local_code": "Huyện Thuận Nam",
+             "iso_code": "VN-36-1"
+        },
+        "Thuan Bac District": {
+             "local_code": "Huyện Thuận Bắc",
+             "iso_code": "VN-36-1"
+        }
+    } 
+} 

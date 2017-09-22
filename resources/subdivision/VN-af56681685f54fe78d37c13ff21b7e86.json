@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Nanh Binh Province"
+    ],
+    "subdivisions": { 
+        "Tam Diep Town": {
+             "local_code": "Thị xã Tam Điệp",
+             "iso_code": "VN-18-1"
+        },
+        "Yen Khanh District": {
+             "local_code": "Huyện Yên Khánh",
+             "iso_code": "VN-18-1"
+        },
+        "Yen Mo District": {
+             "local_code": "Huyện Yên Mô",
+             "iso_code": "VN-18-1"
+        },
+        "Kim Son District": {
+             "local_code": "Huyện Kim Sơn",
+             "iso_code": "VN-18-1"
+        },
+        "Gia Vien District": {
+             "local_code": "Huyện Gia Viễn",
+             "iso_code": "VN-18-1"
+        },
+        "Ninh Binh City": {
+             "local_code": "Thành phố Ninh Bình",
+             "iso_code": "VN-18-1"
+        },
+        "Hoa Lu District": {
+             "local_code": "Huyện Hoa Lư",
+             "iso_code": "VN-18-1"
+        },
+        "Nho Quan District": {
+             "local_code": "Huyện Nho Quan",
+             "iso_code": "VN-18-1"
+        }
+    } 
+} 

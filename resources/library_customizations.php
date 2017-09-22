@@ -83,6 +83,33 @@ function get_address_format_customizations($countryCode) {
  * Returns the subdivision customizations for the provided group.
  */
 function get_subdivision_customizations($group) {
+
+    
+
+    // $files = glob("vietnam/*.json");
+    // foreach($files as $file)
+    // {
+    //     $json_data = file_get_contents($file);
+    //     $data = json_decode($json_data, true);
+    //     echo '------------------------------------------------------------------------------------------------';
+    //     echo "<br>";
+    //     echo "Country code:" . ($data['country_code']) . "<br>";
+    //     echo 'Parents: <br>';
+    //     foreach($data['parents'] as $parent)
+    //     {
+    //         echo "===Parent: " . ($parent) . "<br>";
+    //     }
+    //     echo 'Subdivisions: <br>';
+    //     foreach($data['subdivisions'] as $key=>$subdivision)
+    //     {
+    //         echo "===".$key  . ": <br>";
+    //         foreach($subdivision as $keycity=>$city)
+    //         {
+    //             echo "======" .$keycity . ": " . "city <br>"; 
+    //         }
+    //     }
+        
+    // }
     // 'Islas Baleares' -> 'Balears'.
     // https://github.com/googlei18n/libaddressinput/issues/48
     $subdivisionCustomizations['ES'] = [
@@ -108,6 +135,14 @@ function get_subdivision_customizations($group) {
             'name' => 'México',
             'iso_code' => 'MX-MEX',
             'postal_code_pattern' => '5[0-7]',
+        ],
+    ];
+    $subdivisionCustomizations['An Giang Province'] = [
+        '_add' => [
+            'Yen Bai City' => '',
+        ],
+        'Yen Bai City' => [
+            'name' => 'Thành phố Yên Bái',
         ],
     ];
 

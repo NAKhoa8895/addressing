@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ba Ria-Vung Tau Province"
+    ],
+    "subdivisions": { 
+        "Vung Tau City": {
+             "local_code": "Thành phố Vũng Tàu",
+             "iso_code": "VN-43-1"
+        },
+        "Tan Thanh District": {
+             "local_code": "Huyện Tân Thành",
+             "iso_code": "VN-43-1"
+        },
+        "Chau Duc District": {
+             "local_code": "Huyện Châu Đức",
+             "iso_code": "VN-43-1"
+        },
+        "Dat Do District": {
+             "local_code": "Huyện Đất Đỏ",
+             "iso_code": "VN-43-1"
+        },
+        "Ba Ria City": {
+             "local_code": "Thành phố Bà Rịa",
+             "iso_code": "VN-43-1"
+        },
+        "Xuyen Moc District": {
+             "local_code": "Huyện Xuyên Mộc",
+             "iso_code": "VN-43-1"
+        },
+        "Long Dien District": {
+             "local_code": "Huyện Long Điền",
+             "iso_code": "VN-43-1"
+        },
+        "dao Con Dao District": {
+             "local_code": "Huyện đảo Côn Đảo",
+             "iso_code": "VN-43-1"
+        }
+    } 
+} 

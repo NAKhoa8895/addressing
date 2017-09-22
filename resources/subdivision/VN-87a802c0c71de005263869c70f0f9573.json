@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ben Tre Province"
+    ],
+    "subdivisions": { 
+        "Ben Tre City": {
+             "local_code": "Thành phố Bến Tre",
+             "iso_code": "VN-50-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-50-1"
+        },
+        "Ba Tri District": {
+             "local_code": "Huyện Ba Tri",
+             "iso_code": "VN-50-1"
+        },
+        "Binh Dai District": {
+             "local_code": "Huyện Bình Đại",
+             "iso_code": "VN-50-1"
+        },
+        "Cho Lach District": {
+             "local_code": "Huyện Chợ Lách",
+             "iso_code": "VN-50-1"
+        },
+        "Giong Trom District": {
+             "local_code": "Huyện Giồng Trôm",
+             "iso_code": "VN-50-1"
+        },
+        "Mo Cay Bac District": {
+             "local_code": "Huyện Mỏ Cày Bắc",
+             "iso_code": "VN-50-1"
+        },
+        "Mo Cay Nam District": {
+             "local_code": "Huyện Mỏ Cày Nam",
+             "iso_code": "VN-50-1"
+        },
+        "Thanh Phu District": {
+             "local_code": "Huyện Thạnh Phú",
+             "iso_code": "VN-50-1"
+        }
+    } 
+} 

@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lang Song Province"
+    ],
+    "subdivisions": { 
+        "Lang Son City": {
+             "local_code": "Thành phố Lạng Sơn",
+             "iso_code": "VN-09-1"
+        },
+        "Cao Loc District": {
+             "local_code": "Huyện Cao Lộc",
+             "iso_code": "VN-09-1"
+        },
+        "Van Quan District": {
+             "local_code": "Huyện Văn Quan",
+             "iso_code": "VN-09-1"
+        },
+        "Van Lang District": {
+             "local_code": "Huyện Văn Lãng",
+             "iso_code": "VN-09-1"
+        },
+        "Binh Gia District": {
+             "local_code": "Huyện Bình Gia",
+             "iso_code": "VN-09-1"
+        },
+        "Bac Son District": {
+             "local_code": "Huyện Bắc Sơn",
+             "iso_code": "VN-09-1"
+        },
+        "Huu Lung District": {
+             "local_code": "Huyện Hữu Lũng",
+             "iso_code": "VN-09-1"
+        },
+        "Loc Binh District": {
+             "local_code": "Huyện Lộc Bình",
+             "iso_code": "VN-09-1"
+        },
+        "Dinh Lap District": {
+             "local_code": "Huyện Đình Lập",
+             "iso_code": "VN-09-1"
+        },
+        "Chi Lang District": {
+             "local_code": "Huyện Chi Lăng",
+             "iso_code": "VN-09-1"
+        },
+        "Trang Dinh District": {
+             "local_code": "Huyện Tràng Định",
+             "iso_code": "VN-09-1"
+        }
+    } 
+} 

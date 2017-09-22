@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bac Giang Province"
+    ],
+    "subdivisions": { 
+        "Bac Giang City": {
+             "local_code": "Thành phố Bắc Giang",
+             "iso_code": "VN-54-1"
+        },
+        "Hiep Hoa District": {
+             "local_code": "Huyện Hiệp Hòa",
+             "iso_code": "VN-54-1"
+        },
+        "Lang Giang District": {
+             "local_code": "Huyện Lạng Giang",
+             "iso_code": "VN-54-1"
+        },
+        "Son Dong District": {
+             "local_code": "Huyện Sơn Động",
+             "iso_code": "VN-54-1"
+        },
+        "Tan Yen District": {
+             "local_code": "Huyện Tân Yên",
+             "iso_code": "VN-54-1"
+        },
+        "Viet Yen District": {
+             "local_code": "Huyện Việt Yên",
+             "iso_code": "VN-54-1"
+        },
+        "Yen Dung District": {
+             "local_code": "Huyện Yên Dũng",
+             "iso_code": "VN-54-1"
+        },
+        "Yen The District": {
+             "local_code": "Huyện Yên Thế",
+             "iso_code": "VN-54-1"
+        },
+        "Luc Nam District": {
+             "local_code": "Huyện Lục Nam",
+             "iso_code": "VN-54-1"
+        },
+        "Luc Ngan District": {
+             "local_code": "Huyện Lục Ngạn",
+             "iso_code": "VN-54-1"
+        }
+    } 
+} 

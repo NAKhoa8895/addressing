@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Binh Dinh Province"
+    ],
+    "subdivisions": { 
+        "An Lao District": {
+             "local_code": "Huyện An Lão",
+             "iso_code": "VN-31-1"
+        },
+        "Van Canh District": {
+             "local_code": "Huyện Vân Canh",
+             "iso_code": "VN-31-1"
+        },
+        "Tay Son District": {
+             "local_code": "Huyện Tây Sơn",
+             "iso_code": "VN-31-1"
+        },
+        "Hoai An District": {
+             "local_code": "Huyện Hoài Ân",
+             "iso_code": "VN-31-1"
+        },
+        "Phu My District": {
+             "local_code": "Huyện Phù Mỹ",
+             "iso_code": "VN-31-1"
+        },
+        "Vinh Thanh District": {
+             "local_code": "Huyện Vĩnh Thạnh",
+             "iso_code": "VN-31-1"
+        },
+        "Quy Nhon City": {
+             "local_code": "Thành phố Quy Nhơn",
+             "iso_code": "VN-31-1"
+        },
+        "An Nhon Town": {
+             "local_code": "Thị xã An Nhơn",
+             "iso_code": "VN-31-1"
+        },
+        "Phu Cat District": {
+             "local_code": "Huyện Phù Cát",
+             "iso_code": "VN-31-1"
+        },
+        "Hoai Nhon District": {
+             "local_code": "Huyện Hoài Nhơn",
+             "iso_code": "VN-31-1"
+        },
+        "Tuy Phuoc District": {
+             "local_code": "Huyện Tuy Phước",
+             "iso_code": "VN-31-1"
+        }
+    } 
+} 

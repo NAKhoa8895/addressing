@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Vinh Long Province"
+    ],
+    "subdivisions": { 
+        "Vinh Long City": {
+             "local_code": "Thành phố Vĩnh Long",
+             "iso_code": "VN-49-1"
+        },
+        "Mang Thit District": {
+             "local_code": "Huyện Mang Thít",
+             "iso_code": "VN-49-1"
+        },
+        "Vung Liem District": {
+             "local_code": "Huyện Vũng Liêm",
+             "iso_code": "VN-49-1"
+        },
+        "Long Ho District": {
+             "local_code": "Huyện Long Hồ",
+             "iso_code": "VN-49-1"
+        },
+        "Tam Binh District": {
+             "local_code": "Huyện Tam Bình",
+             "iso_code": "VN-49-1"
+        },
+        "Tra On District": {
+             "local_code": "Huyện Trà Ôn",
+             "iso_code": "VN-49-1"
+        },
+        "Binh Minh Town": {
+             "local_code": "Thị xã Bình Minh",
+             "iso_code": "VN-49-1"
+        },
+        "Binh Tan District": {
+             "local_code": "Huyện Bình Tân",
+             "iso_code": "VN-49-1"
+        }
+    } 
+} 

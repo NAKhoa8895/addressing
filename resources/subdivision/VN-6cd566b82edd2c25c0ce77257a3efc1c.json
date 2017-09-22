@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Khanh Hoa Province"
+    ],
+    "subdivisions": { 
+        "Nha Trang City": {
+             "local_code": "Thành phố Nha Trang",
+             "iso_code": "VN-34-1"
+        },
+        "Cam Ranh City": {
+             "local_code": "Thành phố Cam Ranh",
+             "iso_code": "VN-34-1"
+        },
+        "Dien Khanh District": {
+             "local_code": "Huyện Diên Khánh",
+             "iso_code": "VN-34-1"
+        },
+        "Cam Lam District": {
+             "local_code": "Huyện Cam Lâm",
+             "iso_code": "VN-34-1"
+        },
+        "Van Ninh District": {
+             "local_code": "Huyện Vạn Ninh",
+             "iso_code": "VN-34-1"
+        },
+        "Khanh Vinh District": {
+             "local_code": "Huyện Khánh Vĩnh",
+             "iso_code": "VN-34-1"
+        },
+        "Khanh Son District": {
+             "local_code": "Huyện Khánh Sơn",
+             "iso_code": "VN-34-1"
+        },
+        "Ninh Hoa Town": {
+             "local_code": "Thị xã Ninh Hòa",
+             "iso_code": "VN-34-1"
+        }
+    } 
+} 

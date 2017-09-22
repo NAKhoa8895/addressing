@@ -132,6 +132,7 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
                 // The parent definition wasn't loaded previously, fallback
                 // to guessing based on depth.
                 $neededDepth = count($parents);
+                
                 $hasData = ($neededDepth <= $depth);
             }
         }
@@ -155,13 +156,14 @@ class SubdivisionRepository implements SubdivisionRepositoryInterface
         // If there are predefined subdivisions at this level, try to load them.
         $this->definitions[$group] = [];
         if ($this->hasData($parents)) {
+        
             $filename = $this->definitionPath . $group . '.json';
             if ($rawDefinition = @file_get_contents($filename)) {
                 $this->definitions[$group] = json_decode($rawDefinition, true);
                 $this->definitions[$group] = $this->processDefinitions($this->definitions[$group]);
             }
         }
-
+        
         return $this->definitions[$group];
     }
 

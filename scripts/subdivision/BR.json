@@ -1,0 +1,10 @@
+{
+	"subdivisions": {
+		"": {
+			"name": "Tocantins",
+			"iso_code": "BR-TO",
+			"postal_code_pattern": "77",
+			"has_children": true
+		}
+	}
+}

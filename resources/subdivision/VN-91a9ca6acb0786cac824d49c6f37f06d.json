@@ -1,0 +1,57 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Dong Thap Province"
+    ],
+    "subdivisions": { 
+        "Cao Lanh City": {
+             "local_code": "Thành phố Cao Lãnh",
+             "iso_code": "VN-45-1"
+        },
+        "Cao Lanh District": {
+             "local_code": "Huyện Cao Lãnh",
+             "iso_code": "VN-45-1"
+        },
+        "Lai Vung District": {
+             "local_code": "Huyện Lai Vung",
+             "iso_code": "VN-45-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-45-1"
+        },
+        "Hong Ngu District": {
+             "local_code": "Huyện Hồng Ngự",
+             "iso_code": "VN-45-1"
+        },
+        "Sa Dec City": {
+             "local_code": "Thành phố Sa Đéc",
+             "iso_code": "VN-45-1"
+        },
+        "Lap Vo District": {
+             "local_code": "Huyện Lấp Vò",
+             "iso_code": "VN-45-1"
+        },
+        "Tam Nong District": {
+             "local_code": "Huyện Tam Nông",
+             "iso_code": "VN-45-1"
+        },
+        "Tan Hong District": {
+             "local_code": "Huyện Tân Hồng",
+             "iso_code": "VN-45-1"
+        },
+        "Thanh Binh District": {
+             "local_code": "Huyện Thanh Bình",
+             "iso_code": "VN-45-1"
+        },
+        "Thap Muoi District": {
+             "local_code": "Huyện Tháp Mười",
+             "iso_code": "VN-45-1"
+        },
+        "Hong Ngu Town": {
+             "local_code": "Thị xã Hồng Ngự",
+             "iso_code": "VN-45-1"
+        }
+    } 
+} 

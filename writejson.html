@@ -1,0 +1,21 @@
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+
+            output = ['asd','123'];
+            const fs = require('fs');
+            const content = JSON.stringify(output);
+            
+            fs.writeFile("/tmp/phraseFreqs.json", content, 'utf8', function (err) {
+                if (err) {
+                    return console.log(err);
+                }
+            
+                console.log("The file was saved!");
+            }); 
+        </script>
+    </body>
+</html>

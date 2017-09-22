@@ -23,13 +23,13 @@ if (empty($ariaVersion) || strpos($ariaVersion[0], 'aria2 version') === false) {
     die('aria2 must be installed.');
 }
 
-// Prepare the filesystem.
-$neededDirectories = ['subdivision', 'raw'];
-foreach ($neededDirectories as $neededDirectory) {
-    if (!is_dir($neededDirectory)) {
-        mkdir($neededDirectory);
-    }
-}
+// // Prepare the filesystem.
+// $neededDirectories = ['subdivision', 'raw'];
+// foreach ($neededDirectories as $neededDirectory) {
+//     if (!is_dir($neededDirectory)) {
+//         mkdir($neededDirectory);
+//     }
+// }
 
 $countryRepository = new CountryRepository();
 $countries = $countryRepository->getList();
@@ -38,13 +38,13 @@ $serviceUrl = 'http://i18napis.appspot.com/address';
 
 echo "Generating the url list.\n";
 
-// Generate the url list for aria2.
-$urlList = generate_url_list();
-file_put_contents('raw/url_list.txt', $urlList);
+// // Generate the url list for aria2.
+// $urlList = generate_url_list();
+// file_put_contents('raw/url_list.txt', $urlList);
 
-// Invoke aria2 and fetch the data.
-echo "Downloading the raw data from Google's endpoint.\n";
-exec('cd raw && aria2c -u 16 -i url_list.txt');
+// // Invoke aria2 and fetch the data.
+// echo "Downloading the raw data from Google's endpoint.\n";
+// exec('cd raw && aria2c -u 16 -i url_list.txt');
 
 // Create a list of countries for which Google has definitions.
 $foundCountries = ['ZZ'];
@@ -94,6 +94,7 @@ foreach ($foundCountries as $countryCode) {
         }
 
         $groupedSubdivisions += generate_subdivisions($countryCode, [$countryCode], $subdivisionPaths, $languages);
+
     }
 
     $addressFormats[$countryCode] = $addressFormat;
@@ -197,11 +198,25 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
     foreach ($subdivisionPaths as $subdivisionPath) {
         $definition = file_get_contents('raw/' . $subdivisionPath . '.json');
         $definition = json_decode($definition, true);
+        echo "<br>";
+        var_dump($definition);
+        
         // The lname is usable as a latin code when the key is non-latin.
         $code = $definition['key'];
         if (isset($definition['lname'])) {
             $code = $definition['lname'];
+           
+
         }
+        if($code ==="An Giang Province")
+        {
+            // echo "=======================================================================================================";
+            // echo "<br>";
+            // var_dump($definition);
+            // $definition['sub_keys""']="";
+            // echo "<br>";
+        }
+        if($code = "")
         if (!isset($subdivisions[$group])) {
             $subdivisions[$group] = [
                 'country_code' => $countryCode,
@@ -236,6 +251,8 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
         $subdivisions[$group]['subdivisions'][$code] = create_subdivision_definition($countryCode, $code, $definition);
 
         if (isset($definition['sub_keys'])) {
+            
+            
             $subdivisions[$group]['subdivisions'][$code]['has_children'] = true;
 
             $subdivisionChildrenPaths = [];
@@ -245,12 +262,14 @@ function generate_subdivisions($countryCode, array $parents, $subdivisionPaths, 
             }
 
             $childParents = array_merge($parents, [$code]);
+
             $subdivisions += generate_subdivisions($countryCode, $childParents, $subdivisionChildrenPaths, $languages);
         }
     }
 
     // Apply any found customizations.
     $customizations = get_subdivision_customizations($group);
+
     $subdivisions[$group] = apply_subdivision_customizations($subdivisions[$group], $customizations);
     // All subdivisions have been removed. Remove the rest of the data.
     if (empty($subdivisions[$group]['subdivisions'])) {

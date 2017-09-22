@@ -1,0 +1,13 @@
+{
+	"subdivisions": {
+		"Balears": {
+			"name": "Balears",
+			"iso_code": "ES-PM",
+			"postal_code_pattern": "07"
+		},
+		"": {
+			"iso_code": "ES-Z",
+			"postal_code_pattern": "50"
+		}
+	}
+}

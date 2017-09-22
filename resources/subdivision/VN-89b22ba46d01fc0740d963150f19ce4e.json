@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Binh Duong Province"
+    ],
+    "subdivisions": { 
+        "Thu Dau Mot City": {
+             "local_code": "Thành phố Thủ Dầu Một",
+             "iso_code": "VN-57-1"
+        },
+        "Di An Town": {
+             "local_code": "Thị xã Dĩ An",
+             "iso_code": "VN-57-1"
+        },
+        "Thuan An Town": {
+             "local_code": "Thị xã Thuận An",
+             "iso_code": "VN-57-1"
+        },
+        "Tan Uyen Town": {
+             "local_code": "Thị xã Tân Uyên",
+             "iso_code": "VN-57-1"
+        },
+        "Dau Tieng District": {
+             "local_code": "Huyện Dầu Tiếng",
+             "iso_code": "VN-57-1"
+        },
+        "Bau Bang District": {
+             "local_code": "Huyện Bàu Bàng",
+             "iso_code": "VN-57-1"
+        },
+        "Ben Cat Town": {
+             "local_code": "Thị xã Bến Cát",
+             "iso_code": "VN-57-1"
+        },
+        "Phu Giao District": {
+             "local_code": "Huyện Phú Giáo",
+             "iso_code": "VN-57-1"
+        },
+        "Bac Tan Uyen District": {
+             "local_code": "Huyện Bắc Tân Uyên",
+             "iso_code": "VN-57-1"
+        }
+    } 
+} 

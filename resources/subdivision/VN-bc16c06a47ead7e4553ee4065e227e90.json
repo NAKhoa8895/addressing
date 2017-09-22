@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Tra Vinh Province"
+    ],
+    "subdivisions": { 
+        "Tra Vinh City": {
+             "local_code": "Thành phố Trà Vinh",
+             "iso_code": "VN-51-1"
+        },
+        "Duyen Hai Town": {
+             "local_code": "Thị xã Duyên Hải",
+             "iso_code": "VN-51-1"
+        },
+        "Cau Ngang District": {
+             "local_code": "Huyện Cầu Ngang",
+             "iso_code": "VN-51-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-51-1"
+        },
+        "Tieu Can District": {
+             "local_code": "Huyện Tiểu Cần",
+             "iso_code": "VN-51-1"
+        },
+        "Tra Cu District": {
+             "local_code": "Huyện Trà Cú",
+             "iso_code": "VN-51-1"
+        },
+        "Cang Long District": {
+             "local_code": "Huyện Càng Long",
+             "iso_code": "VN-51-1"
+        },
+        "Cau Ke District": {
+             "local_code": "Huyện Cầu Kè",
+             "iso_code": "VN-51-1"
+        },
+        "Duyen Hai District": {
+             "local_code": "Huyện Duyên Hải",
+             "iso_code": "VN-51-1"
+        }
+    } 
+} 

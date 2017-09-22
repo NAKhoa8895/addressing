@@ -1,0 +1,14 @@
+{
+	"subdivisions": {
+		"MEX": {
+			"name": "México",
+			"iso_code": "MX-MEX",
+			"postal_code_pattern": "5[0-7]"
+		},
+		"": {
+			"name": "Zacatecas",
+			"iso_code": "MX-ZAC",
+			"postal_code_pattern": "9[89]"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"subdivisions": {
+		"": {
+			"local_code": "澎湖縣",
+			"name": "Penghu County",
+			"iso_code": "TW-PEN",
+			"postal_code_pattern": "88",
+			"has_children": true
+		}
+	}
+}

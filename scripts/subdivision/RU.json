@@ -1,0 +1,10 @@
+{
+	"subdivisions": {
+		"": {
+			"local_code": "Ярославская область",
+			"name": "Yaroslavskaya oblast'",
+			"iso_code": "RU-YAR",
+			"postal_code_pattern": "15[0-2]"
+		}
+	}
+}

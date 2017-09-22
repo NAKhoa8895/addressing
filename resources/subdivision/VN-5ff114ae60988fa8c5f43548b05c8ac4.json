@@ -1,0 +1,93 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Nghe An Province"
+    ],
+    "subdivisions": { 
+        "Vinh City": {
+             "local_code": "Thành phố Vinh",
+             "iso_code": "VN-22-1"
+        },
+        "Cua Lo Town": {
+             "local_code": "Thị xã Cửa Lò",
+             "iso_code": "VN-22-1"
+        },
+        "Do Luong District": {
+             "local_code": "Huyện Đô Lương",
+             "iso_code": "VN-22-1"
+        },
+        "Anh Son District": {
+             "local_code": "Huyện Anh Sơn",
+             "iso_code": "VN-22-1"
+        },
+        "Tan Ky District": {
+             "local_code": "Huyện Tân Kỳ",
+             "iso_code": "VN-22-1"
+        },
+        "Yen Thanh District": {
+             "local_code": "Huyện Yên Thành",
+             "iso_code": "VN-22-1"
+        },
+        "Dien Chau District": {
+             "local_code": "Huyện Diễn Châu",
+             "iso_code": "VN-22-1"
+        },
+        "Quynh Luu District": {
+             "local_code": "Huyện Quỳnh Lưu",
+             "iso_code": "VN-22-1"
+        },
+        "Hoang Mai Town": {
+             "local_code": "Thị xã Hoàng Mai",
+             "iso_code": "VN-22-1"
+        },
+        "Thai Hoa Town": {
+             "local_code": "Thị xã Thái Hòa",
+             "iso_code": "VN-22-1"
+        },
+        "Nghia Dan District": {
+             "local_code": "Huyện Nghĩa Đàn",
+             "iso_code": "VN-22-1"
+        },
+        "Quy Hop District": {
+             "local_code": "Huyện Quỳ Hợp",
+             "iso_code": "VN-22-1"
+        },
+        "Con Cuong District": {
+             "local_code": "Huyện Con Cuông",
+             "iso_code": "VN-22-1"
+        },
+        "Nghi Loc District": {
+             "local_code": "Huyện Nghi Lộc",
+             "iso_code": "VN-22-1"
+        },
+        "Tuong Duong District": {
+             "local_code": "Huyện Tương Dương",
+             "iso_code": "VN-22-1"
+        },
+        "Ky Son District": {
+             "local_code": "Huyện Kỳ Sơn",
+             "iso_code": "VN-22-1"
+        },
+        "Thanh Chuong District": {
+             "local_code": "Huyện Thanh Chương",
+             "iso_code": "VN-22-1"
+        },
+        "Quy Chau District": {
+             "local_code": "Huyện Quỳ Châu",
+             "iso_code": "VN-22-1"
+        },
+        "Que Phong District": {
+             "local_code": "Huyện Quế Phong",
+             "iso_code": "VN-22-1"
+        },
+        "Nam Dan District": {
+             "local_code": "Huyện Nam Đàn",
+             "iso_code": "VN-22-1"
+        },
+        "Hung Nguyen District": {
+             "local_code": "Huyện Hưng Nguyên",
+             "iso_code": "VN-22-1"
+        }
+    } 
+} 

@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Kon Tum Province"
+    ],
+    "subdivisions": { 
+        "Kon Plong District": {
+             "local_code": "Huyện Kon Plông",
+             "iso_code": "VN-28-1"
+        },
+        "Dak Ha District": {
+             "local_code": "Huyện Đắk Hà",
+             "iso_code": "VN-28-1"
+        },
+        "Dak To District": {
+             "local_code": "Huyện Đắk Tô",
+             "iso_code": "VN-28-1"
+        },
+        "Kon Ray District": {
+             "local_code": "Huyện Kon Rẫy",
+             "iso_code": "VN-28-1"
+        },
+        "Ngoc Hoi District": {
+             "local_code": "Huyện Ngọc Hồi",
+             "iso_code": "VN-28-1"
+        },
+        "Sa Thay District": {
+             "local_code": "Huyện Sa Thầy",
+             "iso_code": "VN-28-1"
+        },
+        "Ia H Drai District": {
+             "local_code": "Huyện Ia H Drai",
+             "iso_code": "VN-28-1"
+        },
+        "Kon Tum City": {
+             "local_code": "Thành phố Kon Tum",
+             "iso_code": "VN-28-1"
+        },
+        "Dak Glei District": {
+             "local_code": "Huyện Đắk Glei",
+             "iso_code": "VN-28-1"
+        }
+    } 
+} 

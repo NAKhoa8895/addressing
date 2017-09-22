@@ -1,0 +1,11 @@
+{
+	"locale": "fr",
+	"subdivisions": {
+		"": {
+			"local_code": "YT",
+			"local_name": "Yukon",
+			"name": "Yukon",
+			"postal_code_pattern": "Y"
+		}
+	}
+}

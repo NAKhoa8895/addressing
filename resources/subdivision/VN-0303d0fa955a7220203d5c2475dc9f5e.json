@@ -1,0 +1,57 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Son La Province"
+    ],
+    "subdivisions": { 
+        "Son La City": {
+             "local_code": "Thành phố Sơn La",
+             "iso_code": "VN-05-1"
+        },
+        "Quynh Nhai District": {
+             "local_code": "Huyện Quỳnh Nhai",
+             "iso_code": "VN-05-1"
+        },
+        "Van Ho District": {
+             "local_code": "Huyện Vân Hồ",
+             "iso_code": "VN-05-1"
+        },
+        "Yen Chau District": {
+             "local_code": "Huyện Yên Châu",
+             "iso_code": "VN-05-1"
+        },
+        "Mai Son District": {
+             "local_code": "Huyện Mai Sơn",
+             "iso_code": "VN-05-1"
+        },
+        "Moc Chau District": {
+             "local_code": "Huyện Mộc Châu",
+             "iso_code": "VN-05-1"
+        },
+        "Phu Yen District": {
+             "local_code": "Huyện Phù Yên",
+             "iso_code": "VN-05-1"
+        },
+        "Song Ma District": {
+             "local_code": "Huyện Sông Mã",
+             "iso_code": "VN-05-1"
+        },
+        "Sop Cop District": {
+             "local_code": "huyện Sốp Cộp",
+             "iso_code": "VN-05-1"
+        },
+        "Muong La District": {
+             "local_code": "Huyện Mường La",
+             "iso_code": "VN-05-1"
+        },
+        "Thuan Chau District": {
+             "local_code": "Huyện Thuận Châu",
+             "iso_code": "VN-05-1"
+        },
+        "Bac Yen District": {
+             "local_code": "Huyện Bắc Yên",
+             "iso_code": "VN-05-1"
+        }
+    } 
+} 

@@ -1,0 +1,12 @@
+{
+	"subdivisions": {
+		"": {
+			"local_code": "충청북도",
+			"local_name": "충북",
+			"name": "Chungcheongbuk-do",
+			"iso_code": "KR-43",
+			"postal_code_pattern": "2[789]\\d{2}",
+			"has_children": true
+		}
+	}
+}
