@@ -1,0 +1,65 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Kiên Giang"
+    ],
+    "subdivisions": { 
+        "Thành phố Rạch Giá": {
+             "local_code": "Thành phố Rạch Giá",
+             "iso_code": "1-1"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-2"
+        },
+        "Huyện Tân Hiệp": {
+             "local_code": "Huyện Tân Hiệp",
+             "iso_code": "1-3"
+        },
+        "Huyện Giồng Riềng": {
+             "local_code": "Huyện Giồng Riềng",
+             "iso_code": "1-4"
+        },
+        "Huyện An Biên": {
+             "local_code": "Huyện An Biên",
+             "iso_code": "1-5"
+        },
+        "Huyện Gò Quao": {
+             "local_code": "Huyện Gò Quao",
+             "iso_code": "1-6"
+        },
+        "Huyện Giang Thành": {
+             "local_code": "Huyện Giang Thành",
+             "iso_code": "1-7"
+        },
+        "Huyện U Minh Thượng": {
+             "local_code": "Huyện U Minh Thượng",
+             "iso_code": "1-8"
+        },
+        "Huyện Vĩnh Thuận": {
+             "local_code": "Huyện Vĩnh Thuận",
+             "iso_code": "1-9"
+        },
+        "Huyện An Minh": {
+             "local_code": "Huyện An Minh",
+             "iso_code": "1-10"
+        },
+        "Huyện Hòn Đất": {
+             "local_code": "Huyện Hòn Đất",
+             "iso_code": "1-11"
+        },
+        "Huyện Kiên Lương": {
+             "local_code": "Huyện Kiên Lương",
+             "iso_code": "1-12"
+        },
+        "Thị xã Hà Tiên": {
+             "local_code": "Thị xã Hà Tiên",
+             "iso_code": "1-13"
+        },
+        "Huyện đảo Phú Quốc": {
+             "local_code": "Huyện đảo Phú Quốc",
+             "iso_code": "1-14"
+        }
+    } 
+} 

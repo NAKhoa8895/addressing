@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lai Châu"
+    ],
+    "subdivisions": { 
+        "Thành phố Lai Châu": {
+             "local_code": "Thành phố Lai Châu",
+             "iso_code": "1-1"
+        },
+        "Huyện Mường Tè": {
+             "local_code": "Huyện Mường Tè",
+             "iso_code": "1-2"
+        },
+        "Huyện Nậm Nhùm": {
+             "local_code": "Huyện Nậm Nhùm",
+             "iso_code": "1-3"
+        },
+        "Huyện Phong Thổ": {
+             "local_code": "Huyện Phong Thổ",
+             "iso_code": "1-4"
+        },
+        "Huyện Sìn Hồ": {
+             "local_code": "Huyện Sìn Hồ",
+             "iso_code": "1-5"
+        },
+        "Huyện Tam Đường": {
+             "local_code": "Huyện Tam Đường",
+             "iso_code": "1-6"
+        },
+        "Huyện Tân Uyên": {
+             "local_code": "Huyện Tân Uyên",
+             "iso_code": "1-7"
+        },
+        "Huyện Than Uyên": {
+             "local_code": "Huyện Than Uyên",
+             "iso_code": "1-8"
+        }
+    } 
+} 

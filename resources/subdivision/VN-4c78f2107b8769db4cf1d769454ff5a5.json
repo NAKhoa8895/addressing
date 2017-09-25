@@ -1,0 +1,57 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Đồng Tháp"
+    ],
+    "subdivisions": { 
+        "Thành phố Cao Lãnh": {
+             "local_code": "Thành phố Cao Lãnh",
+             "iso_code": "1-1"
+        },
+        "Huyện Cao Lãnh": {
+             "local_code": "Huyện Cao Lãnh",
+             "iso_code": "1-2"
+        },
+        "Huyện Lai Vung": {
+             "local_code": "Huyện Lai Vung",
+             "iso_code": "1-3"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-4"
+        },
+        "Huyện Hồng Ngự": {
+             "local_code": "Huyện Hồng Ngự",
+             "iso_code": "1-5"
+        },
+        "Thành phố Sa Đéc": {
+             "local_code": "Thành phố Sa Đéc",
+             "iso_code": "1-6"
+        },
+        "Huyện Lấp Vò": {
+             "local_code": "Huyện Lấp Vò",
+             "iso_code": "1-7"
+        },
+        "Huyện Tam Nông": {
+             "local_code": "Huyện Tam Nông",
+             "iso_code": "1-8"
+        },
+        "Huyện Tân Hồng": {
+             "local_code": "Huyện Tân Hồng",
+             "iso_code": "1-9"
+        },
+        "Huyện Thanh Bình": {
+             "local_code": "Huyện Thanh Bình",
+             "iso_code": "1-10"
+        },
+        "Huyện Tháp Mười": {
+             "local_code": "Huyện Tháp Mười",
+             "iso_code": "1-11"
+        },
+        "Thị xã Hồng Ngự": {
+             "local_code": "Thị xã Hồng Ngự",
+             "iso_code": "1-12"
+        }
+    } 
+} 

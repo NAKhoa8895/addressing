@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Binh Thuan Province"
+    ],
+    "subdivisions": { 
+        "Phan Thiet City": {
+             "local_code": "Thành phố Phan Thiết",
+             "iso_code": "VN-40-1"
+        },
+        "Ham Thuan Nam District": {
+             "local_code": "Huyện Hàm Thuận Nam",
+             "iso_code": "VN-40-1"
+        },
+        "Ham Thuan Bac District": {
+             "local_code": "Huyện Hàm Thuận Bắc",
+             "iso_code": "VN-40-1"
+        },
+        "La Gi Town": {
+             "local_code": "Thị xã La Gi",
+             "iso_code": "VN-40-1"
+        },
+        "Duc Linh District": {
+             "local_code": "Huyện Đức Linh",
+             "iso_code": "VN-40-1"
+        },
+        "Bac Binh District": {
+             "local_code": "Huyện Bắc Bình",
+             "iso_code": "VN-40-1"
+        },
+        "Tuy Phong District": {
+             "local_code": "Huyện Tuy Phong",
+             "iso_code": "VN-40-1"
+        },
+        "Ham Tan District": {
+             "local_code": "Huyện Hàm Tân",
+             "iso_code": "VN-40-1"
+        },
+        "Tanh Linh District": {
+             "local_code": "Huyện Tánh Linh",
+             "iso_code": "VN-40-1"
+        },
+        "dao Phu Quy District": {
+             "local_code": "Huyện đảo Phú Quý",
+             "iso_code": "VN-40-1"
+        }
+    } 
+} 

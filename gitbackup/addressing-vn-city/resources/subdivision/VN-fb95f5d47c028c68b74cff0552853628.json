@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Dak Nong Province"
+    ],
+    "subdivisions": { 
+        "Krong No District": {
+             "local_code": "Huyện Krông Nô",
+             "iso_code": "VN-72-1"
+        },
+        "Cu Jut District": {
+             "local_code": "Huyện Cư Jút",
+             "iso_code": "VN-72-1"
+        },
+        "Tuy Duc District": {
+             "local_code": "Huyện Tuy Đức",
+             "iso_code": "VN-72-1"
+        },
+        "Gia Nghia Town": {
+             "local_code": "Thị xã Gia Nghĩa",
+             "iso_code": "VN-72-1"
+        },
+        "Dak R lap District": {
+             "local_code": "Huyện Đắk R lấp",
+             "iso_code": "VN-72-1"
+        },
+        "Dak Glong District": {
+             "local_code": "Huyện Đắk Glong",
+             "iso_code": "VN-72-1"
+        },
+        "Dak Mil District": {
+             "local_code": "Huyện Đắk Mil",
+             "iso_code": "VN-72-1"
+        },
+        "Dak Song District": {
+             "local_code": "Huyện Đắk Song",
+             "iso_code": "VN-72-1"
+        }
+    } 
+} 

@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thừa Thiên – Huế"
+    ],
+    "subdivisions": { 
+        "Thành phố Huế": {
+             "local_code": "Thành phố Huế",
+             "iso_code": "1-1"
+        },
+        "Huyện Phú Vang": {
+             "local_code": "Huyện Phú Vang",
+             "iso_code": "1-2"
+        },
+        "Huyện Phú Lộc": {
+             "local_code": "Huyện Phú Lộc",
+             "iso_code": "1-3"
+        },
+        "Huyện A Lưới": {
+             "local_code": "Huyện A Lưới",
+             "iso_code": "1-4"
+        },
+        "Huyện Phong Điền": {
+             "local_code": "Huyện Phong Điền",
+             "iso_code": "1-5"
+        },
+        "Thị xã Hương Trà": {
+             "local_code": "Thị xã Hương Trà",
+             "iso_code": "1-6"
+        },
+        "Thị xã Hương Thủy": {
+             "local_code": "Thị xã Hương Thủy",
+             "iso_code": "1-7"
+        },
+        "Huyện Nam Đông": {
+             "local_code": "Huyện Nam Đông",
+             "iso_code": "1-8"
+        },
+        "Huyện Quảng Điền": {
+             "local_code": "Huyện Quảng Điền",
+             "iso_code": "1-9"
+        }
+    } 
+} 

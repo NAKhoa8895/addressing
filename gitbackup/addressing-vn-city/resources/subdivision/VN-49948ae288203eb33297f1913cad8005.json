@@ -1,0 +1,65 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quang Ninh Province"
+    ],
+    "subdivisions": { 
+        "Cam Pha City": {
+             "local_code": "Thành phố Cẩm Phả",
+             "iso_code": "VN-13-1"
+        },
+        "Uong Bi City": {
+             "local_code": "Thành phố Uông Bí",
+             "iso_code": "VN-13-1"
+        },
+        "Mong Cai City": {
+             "local_code": "Thành phố Móng Cái",
+             "iso_code": "VN-13-1"
+        },
+        "Ha Long City": {
+             "local_code": "Thành phố Hạ Long",
+             "iso_code": "VN-13-1"
+        },
+        "Binh Lieu District": {
+             "local_code": "Huyện Bình Liêu",
+             "iso_code": "VN-13-1"
+        },
+        "Ba Che District": {
+             "local_code": "Huyện Ba Chẽ",
+             "iso_code": "VN-13-1"
+        },
+        "dao Van Don District": {
+             "local_code": "Huyện đảo Vân Đồn",
+             "iso_code": "VN-13-1"
+        },
+        "Hai Ha District": {
+             "local_code": "Huyện Hải Hà",
+             "iso_code": "VN-13-1"
+        },
+        "Dong Trieu District": {
+             "local_code": "Huyện Đông Triều",
+             "iso_code": "VN-13-1"
+        },
+        "Hoanh Bo District": {
+             "local_code": "Huyện Hoành Bồ",
+             "iso_code": "VN-13-1"
+        },
+        "Dam Ha District": {
+             "local_code": "Huyện Đầm Hà",
+             "iso_code": "VN-13-1"
+        },
+        "Tien Yen District": {
+             "local_code": "Huyện Tiên Yên",
+             "iso_code": "VN-13-1"
+        },
+        "Quang Yen Town": {
+             "local_code": "Thị xã Quảng Yên",
+             "iso_code": "VN-13-1"
+        },
+        "dao Co To District": {
+             "local_code": "Huyện đảo Cô Tô",
+             "iso_code": "VN-13-1"
+        }
+    } 
+} 

@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Phú Yên"
+    ],
+    "subdivisions": { 
+        "Thị Xã Sông Cầu": {
+             "local_code": "Thị Xã Sông Cầu",
+             "iso_code": "1-1"
+        },
+        "Huyện Tây Hòa": {
+             "local_code": "Huyện Tây Hòa",
+             "iso_code": "1-2"
+        },
+        "Huyện Đồng Xuân": {
+             "local_code": "Huyện Đồng Xuân",
+             "iso_code": "1-3"
+        },
+        "Huyện Đông Hòa": {
+             "local_code": "Huyện Đông Hòa",
+             "iso_code": "1-4"
+        },
+        "Huyện Sông Hinh": {
+             "local_code": "Huyện Sông Hinh",
+             "iso_code": "1-5"
+        },
+        "Huyện Sơn Hòa": {
+             "local_code": "Huyện Sơn Hòa",
+             "iso_code": "1-6"
+        },
+        "Thành phố Tuy Hòa": {
+             "local_code": "Thành phố Tuy Hòa",
+             "iso_code": "1-7"
+        },
+        "Huyện Phú Hòa": {
+             "local_code": "Huyện Phú Hòa",
+             "iso_code": "1-8"
+        },
+        "Huyện Tuy An": {
+             "local_code": "Huyện Tuy An",
+             "iso_code": "1-9"
+        }
+    } 
+} 

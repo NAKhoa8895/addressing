@@ -1,0 +1,117 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thanh Hóa"
+    ],
+    "subdivisions": { 
+        "Thành phố Thanh Hóa": {
+             "local_code": "Thành phố Thanh Hóa",
+             "iso_code": "1-1"
+        },
+        "Thị xã Sầm Sơn": {
+             "local_code": "Thị xã Sầm Sơn",
+             "iso_code": "1-2"
+        },
+        "Huyện Tĩnh Gia": {
+             "local_code": "Huyện Tĩnh Gia",
+             "iso_code": "1-3"
+        },
+        "Huyện Như Xuân": {
+             "local_code": "Huyện Như Xuân",
+             "iso_code": "1-4"
+        },
+        "Huyện Thường Xuân": {
+             "local_code": "Huyện Thường Xuân",
+             "iso_code": "1-5"
+        },
+        "Huyện Thọ Xuân": {
+             "local_code": "Huyện Thọ Xuân",
+             "iso_code": "1-6"
+        },
+        "Huyện Ngọc Lặc": {
+             "local_code": "Huyện Ngọc Lặc",
+             "iso_code": "1-7"
+        },
+        "Huyện Yên Định": {
+             "local_code": "Huyện Yên Định",
+             "iso_code": "1-8"
+        },
+        "Thị xã Bỉm Sơn": {
+             "local_code": "Thị xã Bỉm Sơn",
+             "iso_code": "1-9"
+        },
+        "Huyện Hà Trung": {
+             "local_code": "Huyện Hà Trung",
+             "iso_code": "1-10"
+        },
+        "Huyện Mường Lát": {
+             "local_code": "Huyện Mường Lát",
+             "iso_code": "1-11"
+        },
+        "Huyện Quan Hóa": {
+             "local_code": "Huyện Quan Hóa",
+             "iso_code": "1-12"
+        },
+        "Huyện Thạch Thành": {
+             "local_code": "Huyện Thạch Thành",
+             "iso_code": "1-13"
+        },
+        "Huyện Vĩnh Lộc": {
+             "local_code": "Huyện Vĩnh Lộc",
+             "iso_code": "1-14"
+        },
+        "Huyện Nông Cống": {
+             "local_code": "Huyện Nông Cống",
+             "iso_code": "1-15"
+        },
+        "Huyện Như Thanh": {
+             "local_code": "Huyện Như Thanh",
+             "iso_code": "1-16"
+        },
+        "Huyện Triệu Sơn": {
+             "local_code": "Huyện Triệu Sơn",
+             "iso_code": "1-17"
+        },
+        "Huyện Quảng Xương": {
+             "local_code": "Huyện Quảng Xương",
+             "iso_code": "1-18"
+        },
+        "Huyện Hoằng Hóa": {
+             "local_code": "Huyện Hoằng Hóa",
+             "iso_code": "1-19"
+        },
+        "Huyện Đông Sơn": {
+             "local_code": "Huyện Đông Sơn",
+             "iso_code": "1-20"
+        },
+        "Huyện Hậu Lộc": {
+             "local_code": "Huyện Hậu Lộc",
+             "iso_code": "1-21"
+        },
+        "Huyện Quan Sơn": {
+             "local_code": "Huyện Quan Sơn",
+             "iso_code": "1-22"
+        },
+        "Huyện Nga Sơn": {
+             "local_code": "Huyện Nga Sơn",
+             "iso_code": "1-23"
+        },
+        "Huyện Thiệu Hóa": {
+             "local_code": "Huyện Thiệu Hóa",
+             "iso_code": "1-24"
+        },
+        "Huyện Lang Chánh": {
+             "local_code": "Huyện Lang Chánh",
+             "iso_code": "1-25"
+        },
+        "Huyện Bá Thước": {
+             "local_code": "Huyện Bá Thước",
+             "iso_code": "1-26"
+        },
+        "Huyện Cẩm Thủy": {
+             "local_code": "Huyện Cẩm Thủy",
+             "iso_code": "1-27"
+        }
+    } 
+} 

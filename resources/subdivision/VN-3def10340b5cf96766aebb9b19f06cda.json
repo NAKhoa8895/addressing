@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bắc Ninh"
+    ],
+    "subdivisions": { 
+        "Thành phố Bắc Ninh": {
+             "local_code": "Thành phố Bắc Ninh",
+             "iso_code": "1-1"
+        },
+        "Huyện Quế Võ": {
+             "local_code": "Huyện Quế Võ",
+             "iso_code": "1-2"
+        },
+        "Huyện Tiên Du": {
+             "local_code": "Huyện Tiên Du",
+             "iso_code": "1-3"
+        },
+        "Thị xã Từ Sơn": {
+             "local_code": "Thị xã Từ Sơn",
+             "iso_code": "1-4"
+        },
+        "Huyện Gia Bình": {
+             "local_code": "Huyện Gia Bình",
+             "iso_code": "1-5"
+        },
+        "Huyện Thuận Thành": {
+             "local_code": "Huyện Thuận Thành",
+             "iso_code": "1-6"
+        },
+        "Huyện Yên Phong": {
+             "local_code": "Huyện Yên Phong",
+             "iso_code": "1-7"
+        },
+        "Huyện Lương Tài": {
+             "local_code": "Huyện Lương Tài",
+             "iso_code": "1-8"
+        }
+    } 
+} 

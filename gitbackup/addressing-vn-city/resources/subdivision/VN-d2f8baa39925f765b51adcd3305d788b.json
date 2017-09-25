@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bac Ninh Province"
+    ],
+    "subdivisions": { 
+        "Bac Ninh City": {
+             "local_code": "Thành phố Bắc Ninh",
+             "iso_code": "VN-56-1"
+        },
+        "Que Vo District": {
+             "local_code": "Huyện Quế Võ",
+             "iso_code": "VN-56-1"
+        },
+        "Tien Du District": {
+             "local_code": "Huyện Tiên Du",
+             "iso_code": "VN-56-1"
+        },
+        "Tu Son Town": {
+             "local_code": "Thị xã Từ Sơn",
+             "iso_code": "VN-56-1"
+        },
+        "Gia Binh District": {
+             "local_code": "Huyện Gia Bình",
+             "iso_code": "VN-56-1"
+        },
+        "Thuan Thanh District": {
+             "local_code": "Huyện Thuận Thành",
+             "iso_code": "VN-56-1"
+        },
+        "Yen Phong District": {
+             "local_code": "Huyện Yên Phong",
+             "iso_code": "VN-56-1"
+        },
+        "Luong Tai District": {
+             "local_code": "Huyện Lương Tài",
+             "iso_code": "VN-56-1"
+        }
+    } 
+} 

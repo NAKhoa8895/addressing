@@ -1,0 +1,33 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hà Nam"
+    ],
+    "subdivisions": { 
+        "Thành phố Phủ Lý": {
+             "local_code": "Thành phố Phủ Lý",
+             "iso_code": "1-1"
+        },
+        "Huyện Bình Lục": {
+             "local_code": "Huyện Bình Lục",
+             "iso_code": "1-2"
+        },
+        "Huyện Duy Tiên": {
+             "local_code": "Huyện Duy Tiên",
+             "iso_code": "1-3"
+        },
+        "Huyện Kim Bảng": {
+             "local_code": "Huyện Kim Bảng",
+             "iso_code": "1-4"
+        },
+        "Huyện Lý Nhân": {
+             "local_code": "Huyện Lý Nhân",
+             "iso_code": "1-5"
+        },
+        "Huyện Thanh Liêm": {
+             "local_code": "Huyện Thanh Liêm",
+             "iso_code": "1-6"
+        }
+    } 
+} 

@@ -1,0 +1,69 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Đắk Lắk"
+    ],
+    "subdivisions": { 
+        "Thành phố Buôn Ma Thuột": {
+             "local_code": "Thành phố Buôn Ma Thuột",
+             "iso_code": "1-1"
+        },
+        "Huyện Krông Ana": {
+             "local_code": "Huyện Krông Ana",
+             "iso_code": "1-2"
+        },
+        "Huyện Ea Súp": {
+             "local_code": "Huyện Ea Súp",
+             "iso_code": "1-3"
+        },
+        "Huyện Lắk": {
+             "local_code": "Huyện Lắk",
+             "iso_code": "1-4"
+        },
+        "Huyện Krông Búk": {
+             "local_code": "Huyện Krông Búk",
+             "iso_code": "1-5"
+        },
+        "Huyện M đrắk": {
+             "local_code": "Huyện M đrắk",
+             "iso_code": "1-6"
+        },
+        "Huyện Buôn Ðôn": {
+             "local_code": "Huyện Buôn Ðôn",
+             "iso_code": "1-7"
+        },
+        "Huyện Cư M gar": {
+             "local_code": "Huyện Cư M gar",
+             "iso_code": "1-8"
+        },
+        "Huyện Ea H leo": {
+             "local_code": "Huyện Ea H leo",
+             "iso_code": "1-9"
+        },
+        "Huyện Krông Năng": {
+             "local_code": "Huyện Krông Năng",
+             "iso_code": "1-10"
+        },
+        "Thị xã Buôn Hồ": {
+             "local_code": "Thị xã Buôn Hồ",
+             "iso_code": "1-11"
+        },
+        "Huyện Krông Bông": {
+             "local_code": "Huyện Krông Bông",
+             "iso_code": "1-12"
+        },
+        "Huyện Ea Kar": {
+             "local_code": "Huyện Ea Kar",
+             "iso_code": "1-13"
+        },
+        "Huyện Krông Pắc": {
+             "local_code": "Huyện Krông Pắc",
+             "iso_code": "1-14"
+        },
+        "Huyện Cư Kuin": {
+             "local_code": "Huyện Cư Kuin",
+             "iso_code": "1-15"
+        }
+    } 
+} 

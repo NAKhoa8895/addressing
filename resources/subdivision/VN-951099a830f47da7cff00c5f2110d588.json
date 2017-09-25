@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lào Cai"
+    ],
+    "subdivisions": { 
+        "Huyện Bát Xát": {
+             "local_code": "Huyện Bát Xát",
+             "iso_code": "1-1"
+        },
+        "Huyện Bảo Yên": {
+             "local_code": "Huyện Bảo Yên",
+             "iso_code": "1-2"
+        },
+        "Huyện Bắc Hà": {
+             "local_code": "Huyện Bắc Hà",
+             "iso_code": "1-3"
+        },
+        "Huyện Mường Khương": {
+             "local_code": "Huyện Mường Khương",
+             "iso_code": "1-4"
+        },
+        "Huyện Xi Ma Cai": {
+             "local_code": "Huyện Xi Ma Cai",
+             "iso_code": "1-5"
+        },
+        "Thành phố Lào Cai": {
+             "local_code": "Thành phố Lào Cai",
+             "iso_code": "1-6"
+        },
+        "Huyện Sa Pa": {
+             "local_code": "Huyện Sa Pa",
+             "iso_code": "1-7"
+        },
+        "Huyện Văn Bàn": {
+             "local_code": "Huyện Văn Bàn",
+             "iso_code": "1-8"
+        },
+        "Huyện Bảo Thắng": {
+             "local_code": "Huyện Bảo Thắng",
+             "iso_code": "1-9"
+        }
+    } 
+} 

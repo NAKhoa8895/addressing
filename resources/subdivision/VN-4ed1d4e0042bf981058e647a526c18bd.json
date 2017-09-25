@@ -1,0 +1,117 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hồ Chí Minh"
+    ],
+    "subdivisions": { 
+        "Quận 1": {
+             "local_code": "Quận 1",
+             "iso_code": "1-1"
+        },
+        "Quận 2": {
+             "local_code": "Quận 2",
+             "iso_code": "1-2"
+        },
+        "Quận 3": {
+             "local_code": "Quận 3",
+             "iso_code": "1-3"
+        },
+        "Quận 4": {
+             "local_code": "Quận 4",
+             "iso_code": "1-4"
+        },
+        "Quận 5": {
+             "local_code": "Quận 5",
+             "iso_code": "1-5"
+        },
+        "Quận 6": {
+             "local_code": "Quận 6",
+             "iso_code": "1-6"
+        },
+        "Quận 7": {
+             "local_code": "Quận 7",
+             "iso_code": "1-7"
+        },
+        "Quận 8": {
+             "local_code": "Quận 8",
+             "iso_code": "1-8"
+        },
+        "Quận 9": {
+             "local_code": "Quận 9",
+             "iso_code": "1-9"
+        },
+        "Quận 10": {
+             "local_code": "Quận 10",
+             "iso_code": "1-10"
+        },
+        "Quận 11": {
+             "local_code": "Quận 11",
+             "iso_code": "1-11"
+        },
+        "Quận 12": {
+             "local_code": "Quận 12",
+             "iso_code": "1-12"
+        },
+        "Quận Tân Bình": {
+             "local_code": "Quận Tân Bình",
+             "iso_code": "1-13"
+        },
+        "Quận Tân Phú": {
+             "local_code": "Quận Tân Phú",
+             "iso_code": "1-14"
+        },
+        "Quận Phú Nhuận": {
+             "local_code": "Quận Phú Nhuận",
+             "iso_code": "1-15"
+        },
+        "Quận Bình Tân": {
+             "local_code": "Quận Bình Tân",
+             "iso_code": "1-16"
+        },
+        "Huyện Hóc Môn": {
+             "local_code": "Huyện Hóc Môn",
+             "iso_code": "1-17"
+        },
+        "Huyện Củ Chi": {
+             "local_code": "Huyện Củ Chi",
+             "iso_code": "1-18"
+        },
+        "Quận Gò Vấp": {
+             "local_code": "Quận Gò Vấp",
+             "iso_code": "1-19"
+        },
+        "Quận Bình Thạnh": {
+             "local_code": "Quận Bình Thạnh",
+             "iso_code": "1-20"
+        },
+        "Quận Thủ Đức": {
+             "local_code": "Quận Thủ Đức",
+             "iso_code": "1-21"
+        },
+        "Huyện Bình Chánh": {
+             "local_code": "Huyện Bình Chánh",
+             "iso_code": "1-22"
+        },
+        "Huyện Nhà Bè": {
+             "local_code": "Huyện Nhà Bè",
+             "iso_code": "1-23"
+        },
+        "Quận Đặc Biệt": {
+             "local_code": "Quận Đặc Biệt",
+             "iso_code": "1-24"
+        },
+        "Huyện Cần Giờ": {
+             "local_code": "Huyện Cần Giờ",
+             "iso_code": "1-25"
+        },
+        "Quận Đặc Biệt DC": {
+             "local_code": "Quận Đặc Biệt DC",
+             "iso_code": "1-26"
+        },
+        "Quận Vật Tư HCM": {
+             "local_code": "Quận Vật Tư HCM",
+             "iso_code": "1-27"
+        }
+    } 
+} 

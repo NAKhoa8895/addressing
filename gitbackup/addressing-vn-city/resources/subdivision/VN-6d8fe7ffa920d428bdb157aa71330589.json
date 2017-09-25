@@ -1,0 +1,61 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quang Ngai Province"
+    ],
+    "subdivisions": { 
+        "Quang Ngai City": {
+             "local_code": "Thành phố Quảng Ngãi",
+             "iso_code": "VN-29-1"
+        },
+        "Son Tinh District": {
+             "local_code": "Huyện Sơn Tịnh",
+             "iso_code": "VN-29-1"
+        },
+        "Tu Nghia District": {
+             "local_code": "Huyện Tư Nghĩa",
+             "iso_code": "VN-29-1"
+        },
+        "Binh Son District": {
+             "local_code": "Huyện Bình Sơn",
+             "iso_code": "VN-29-1"
+        },
+        "Minh Long District": {
+             "local_code": "Huyện Minh Long",
+             "iso_code": "VN-29-1"
+        },
+        "Son Tay District": {
+             "local_code": "Huyện Sơn Tây",
+             "iso_code": "VN-29-1"
+        },
+        "Son Ha District": {
+             "local_code": "Huyện Sơn Hà",
+             "iso_code": "VN-29-1"
+        },
+        "Tay Tra District": {
+             "local_code": "Huyện Tây Trà",
+             "iso_code": "VN-29-1"
+        },
+        "Duc Pho District": {
+             "local_code": "Huyện Đức Phổ",
+             "iso_code": "VN-29-1"
+        },
+        "Nghia Hanh District": {
+             "local_code": "Huyện Nghĩa Hành",
+             "iso_code": "VN-29-1"
+        },
+        "Tra Bong District": {
+             "local_code": "Huyện Trà Bồng",
+             "iso_code": "VN-29-1"
+        },
+        "Mo Duc District": {
+             "local_code": "Huyện Mộ Đức",
+             "iso_code": "VN-29-1"
+        },
+        "Ba To District": {
+             "local_code": "Huyện Ba Tơ",
+             "iso_code": "VN-29-1"
+        }
+    } 
+} 

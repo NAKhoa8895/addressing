@@ -1,0 +1,61 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quảng Ngãi"
+    ],
+    "subdivisions": { 
+        "Thành phố Quảng Ngãi": {
+             "local_code": "Thành phố Quảng Ngãi",
+             "iso_code": "1-1"
+        },
+        "Huyện Sơn Tịnh": {
+             "local_code": "Huyện Sơn Tịnh",
+             "iso_code": "1-2"
+        },
+        "Huyện Tư Nghĩa": {
+             "local_code": "Huyện Tư Nghĩa",
+             "iso_code": "1-3"
+        },
+        "Huyện Bình Sơn": {
+             "local_code": "Huyện Bình Sơn",
+             "iso_code": "1-4"
+        },
+        "Huyện Minh Long": {
+             "local_code": "Huyện Minh Long",
+             "iso_code": "1-5"
+        },
+        "Huyện Sơn Tây": {
+             "local_code": "Huyện Sơn Tây",
+             "iso_code": "1-6"
+        },
+        "Huyện Sơn Hà": {
+             "local_code": "Huyện Sơn Hà",
+             "iso_code": "1-7"
+        },
+        "Huyện Tây Trà": {
+             "local_code": "Huyện Tây Trà",
+             "iso_code": "1-8"
+        },
+        "Huyện Đức Phổ": {
+             "local_code": "Huyện Đức Phổ",
+             "iso_code": "1-9"
+        },
+        "Huyện Nghĩa Hành": {
+             "local_code": "Huyện Nghĩa Hành",
+             "iso_code": "1-10"
+        },
+        "Huyện Trà Bồng": {
+             "local_code": "Huyện Trà Bồng",
+             "iso_code": "1-11"
+        },
+        "Huyện Mộ Đức": {
+             "local_code": "Huyện Mộ Đức",
+             "iso_code": "1-12"
+        },
+        "Huyện Ba Tơ": {
+             "local_code": "Huyện Ba Tơ",
+             "iso_code": "1-13"
+        }
+    } 
+} 

@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Đăk Nông"
+    ],
+    "subdivisions": { 
+        "Huyện Krông Nô": {
+             "local_code": "Huyện Krông Nô",
+             "iso_code": "1-1"
+        },
+        "Huyện Cư Jút": {
+             "local_code": "Huyện Cư Jút",
+             "iso_code": "1-2"
+        },
+        "Huyện Tuy Đức": {
+             "local_code": "Huyện Tuy Đức",
+             "iso_code": "1-3"
+        },
+        "Thị xã Gia Nghĩa": {
+             "local_code": "Thị xã Gia Nghĩa",
+             "iso_code": "1-4"
+        },
+        "Huyện Đắk R lấp": {
+             "local_code": "Huyện Đắk R lấp",
+             "iso_code": "1-5"
+        },
+        "Huyện Đắk Glong": {
+             "local_code": "Huyện Đắk Glong",
+             "iso_code": "1-6"
+        },
+        "Huyện Đắk Mil": {
+             "local_code": "Huyện Đắk Mil",
+             "iso_code": "1-7"
+        },
+        "Huyện Đắk Song": {
+             "local_code": "Huyện Đắk Song",
+             "iso_code": "1-8"
+        }
+    } 
+} 

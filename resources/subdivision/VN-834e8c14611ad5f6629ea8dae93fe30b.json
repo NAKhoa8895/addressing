@@ -1,0 +1,69 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Long An"
+    ],
+    "subdivisions": { 
+        "Thành phố Tân An": {
+             "local_code": "Thành phố Tân An",
+             "iso_code": "1-1"
+        },
+        "Huyện Bến Lức": {
+             "local_code": "Huyện Bến Lức",
+             "iso_code": "1-2"
+        },
+        "Huyện Cần Đước": {
+             "local_code": "Huyện Cần Đước",
+             "iso_code": "1-3"
+        },
+        "Huyện Đức Huệ": {
+             "local_code": "Huyện Đức Huệ",
+             "iso_code": "1-4"
+        },
+        "Huyện Cần Giuộc": {
+             "local_code": "Huyện Cần Giuộc",
+             "iso_code": "1-5"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-6"
+        },
+        "Huyện Đức Hòa": {
+             "local_code": "Huyện Đức Hòa",
+             "iso_code": "1-7"
+        },
+        "Huyện Vĩnh Hưng": {
+             "local_code": "Huyện Vĩnh Hưng",
+             "iso_code": "1-8"
+        },
+        "Huyện Thạnh Hóa": {
+             "local_code": "Huyện Thạnh Hóa",
+             "iso_code": "1-9"
+        },
+        "Huyện Tân Thạnh": {
+             "local_code": "Huyện Tân Thạnh",
+             "iso_code": "1-10"
+        },
+        "Huyện Tân Hưng": {
+             "local_code": "Huyện Tân Hưng",
+             "iso_code": "1-11"
+        },
+        "Huyện Mộc Hóa": {
+             "local_code": "Huyện Mộc Hóa",
+             "iso_code": "1-12"
+        },
+        "Thị xã Kiến Tường": {
+             "local_code": "Thị xã Kiến Tường",
+             "iso_code": "1-13"
+        },
+        "Huyện Tân Trụ": {
+             "local_code": "Huyện Tân Trụ",
+             "iso_code": "1-14"
+        },
+        "Huyện Thủ Thừa": {
+             "local_code": "Huyện Thủ Thừa",
+             "iso_code": "1-15"
+        }
+    } 
+} 

@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bình Định"
+    ],
+    "subdivisions": { 
+        "Huyện An Lão": {
+             "local_code": "Huyện An Lão",
+             "iso_code": "1-1"
+        },
+        "Huyện Vân Canh": {
+             "local_code": "Huyện Vân Canh",
+             "iso_code": "1-2"
+        },
+        "Huyện Tây Sơn": {
+             "local_code": "Huyện Tây Sơn",
+             "iso_code": "1-3"
+        },
+        "Huyện Hoài Ân": {
+             "local_code": "Huyện Hoài Ân",
+             "iso_code": "1-4"
+        },
+        "Huyện Phù Mỹ": {
+             "local_code": "Huyện Phù Mỹ",
+             "iso_code": "1-5"
+        },
+        "Huyện Vĩnh Thạnh": {
+             "local_code": "Huyện Vĩnh Thạnh",
+             "iso_code": "1-6"
+        },
+        "Thành phố Quy Nhơn": {
+             "local_code": "Thành phố Quy Nhơn",
+             "iso_code": "1-7"
+        },
+        "Thị xã An Nhơn": {
+             "local_code": "Thị xã An Nhơn",
+             "iso_code": "1-8"
+        },
+        "Huyện Phù Cát": {
+             "local_code": "Huyện Phù Cát",
+             "iso_code": "1-9"
+        },
+        "Huyện Hoài Nhơn": {
+             "local_code": "Huyện Hoài Nhơn",
+             "iso_code": "1-10"
+        },
+        "Huyện Tuy Phước": {
+             "local_code": "Huyện Tuy Phước",
+             "iso_code": "1-11"
+        }
+    } 
+} 

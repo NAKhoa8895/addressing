@@ -1,0 +1,137 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hà Nội"
+    ],
+    "subdivisions": { 
+        "Quận Hà Đông": {
+             "local_code": "Quận Hà Đông",
+             "iso_code": "1-1"
+        },
+        "Quận Bắc Từ Liêm": {
+             "local_code": "Quận Bắc Từ Liêm",
+             "iso_code": "1-2"
+        },
+        "Quận Ba Đình": {
+             "local_code": "Quận Ba Đình",
+             "iso_code": "1-3"
+        },
+        "Quận Cầu Giấy": {
+             "local_code": "Quận Cầu Giấy",
+             "iso_code": "1-4"
+        },
+        "Quận Đống Đa": {
+             "local_code": "Quận Đống Đa",
+             "iso_code": "1-5"
+        },
+        "Quận Hai Bà Trưng": {
+             "local_code": "Quận Hai Bà Trưng",
+             "iso_code": "1-6"
+        },
+        "Quận Hoàn Kiếm": {
+             "local_code": "Quận Hoàn Kiếm",
+             "iso_code": "1-7"
+        },
+        "Quận Hoàng Mai": {
+             "local_code": "Quận Hoàng Mai",
+             "iso_code": "1-8"
+        },
+        "Quận Long Biên": {
+             "local_code": "Quận Long Biên",
+             "iso_code": "1-9"
+        },
+        "Quận Tây Hồ": {
+             "local_code": "Quận Tây Hồ",
+             "iso_code": "1-10"
+        },
+        "Quận Thanh Xuân": {
+             "local_code": "Quận Thanh Xuân",
+             "iso_code": "1-11"
+        },
+        "Huyện Mê Linh": {
+             "local_code": "Huyện Mê Linh",
+             "iso_code": "1-12"
+        },
+        "Huyện Đông Anh": {
+             "local_code": "Huyện Đông Anh",
+             "iso_code": "1-13"
+        },
+        "Huyện Sóc Sơn": {
+             "local_code": "Huyện Sóc Sơn",
+             "iso_code": "1-14"
+        },
+        "Huyện Gia Lâm": {
+             "local_code": "Huyện Gia Lâm",
+             "iso_code": "1-15"
+        },
+        "Huyện Thanh Trì": {
+             "local_code": "Huyện Thanh Trì",
+             "iso_code": "1-16"
+        },
+        "Thị xã Sơn Tây": {
+             "local_code": "Thị xã Sơn Tây",
+             "iso_code": "1-17"
+        },
+        "Quận Nam Từ Liêm": {
+             "local_code": "Quận Nam Từ Liêm",
+             "iso_code": "1-18"
+        },
+        "Huyện Phú Xuyên": {
+             "local_code": "Huyện Phú Xuyên",
+             "iso_code": "1-19"
+        },
+        "Quận Đặc Biệt": {
+             "local_code": "Quận Đặc Biệt",
+             "iso_code": "1-20"
+        },
+        "Huyện Ba Vì": {
+             "local_code": "Huyện Ba Vì",
+             "iso_code": "1-21"
+        },
+        "Huyện Đan Phượng": {
+             "local_code": "Huyện Đan Phượng",
+             "iso_code": "1-22"
+        },
+        "Huyện Hoài Đức": {
+             "local_code": "Huyện Hoài Đức",
+             "iso_code": "1-23"
+        },
+        "Huyện Mỹ Đức": {
+             "local_code": "Huyện Mỹ Đức",
+             "iso_code": "1-24"
+        },
+        "Huyện Phúc Thọ": {
+             "local_code": "Huyện Phúc Thọ",
+             "iso_code": "1-25"
+        },
+        "Huyện Thạch Thất": {
+             "local_code": "Huyện Thạch Thất",
+             "iso_code": "1-26"
+        },
+        "Huyện Thanh Oai": {
+             "local_code": "Huyện Thanh Oai",
+             "iso_code": "1-27"
+        },
+        "Huyện Ứng Hòa": {
+             "local_code": "Huyện Ứng Hòa",
+             "iso_code": "1-28"
+        },
+        "Huyện Chương Mỹ": {
+             "local_code": "Huyện Chương Mỹ",
+             "iso_code": "1-29"
+        },
+        "Huyện Quốc Oai ": {
+             "local_code": "Huyện Quốc Oai ",
+             "iso_code": "1-30"
+        },
+        "Huyện Thường Tín": {
+             "local_code": "Huyện Thường Tín",
+             "iso_code": "1-31"
+        },
+        "Quận Vật Tư HN": {
+             "local_code": "Quận Vật Tư HN",
+             "iso_code": "1-32"
+        }
+    } 
+} 

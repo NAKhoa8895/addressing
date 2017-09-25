@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Vinh Phuc Province"
+    ],
+    "subdivisions": { 
+        "Vinh Yen City": {
+             "local_code": "Thành phố Vĩnh Yên",
+             "iso_code": "VN-70-1"
+        },
+        "Binh Xuyen District": {
+             "local_code": "Huyện Bình Xuyên",
+             "iso_code": "VN-70-1"
+        },
+        "Vinh Tuong District": {
+             "local_code": "Huyện Vĩnh Tường",
+             "iso_code": "VN-70-1"
+        },
+        "Yen Lac District": {
+             "local_code": "Huyện Yên Lạc",
+             "iso_code": "VN-70-1"
+        },
+        "Lap Thach District": {
+             "local_code": "Huyện Lập Thạch",
+             "iso_code": "VN-70-1"
+        },
+        "Tam Duong District": {
+             "local_code": "Huyện Tam Dương",
+             "iso_code": "VN-70-1"
+        },
+        "Tam Dao District": {
+             "local_code": "Huyện Tam Đảo",
+             "iso_code": "VN-70-1"
+        },
+        "Song Lo District": {
+             "local_code": "Huyện Sông Lô",
+             "iso_code": "VN-70-1"
+        },
+        "Phuc Yen Town": {
+             "local_code": "Thị xã Phúc Yên",
+             "iso_code": "VN-70-1"
+        }
+    } 
+} 

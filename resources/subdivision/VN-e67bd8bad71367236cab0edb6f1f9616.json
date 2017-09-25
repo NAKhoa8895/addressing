@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bình Dương"
+    ],
+    "subdivisions": { 
+        "Thành phố Thủ Dầu Một": {
+             "local_code": "Thành phố Thủ Dầu Một",
+             "iso_code": "1-1"
+        },
+        "Thị xã Dĩ An": {
+             "local_code": "Thị xã Dĩ An",
+             "iso_code": "1-2"
+        },
+        "Thị xã Thuận An": {
+             "local_code": "Thị xã Thuận An",
+             "iso_code": "1-3"
+        },
+        "Thị xã Tân Uyên": {
+             "local_code": "Thị xã Tân Uyên",
+             "iso_code": "1-4"
+        },
+        "Huyện Dầu Tiếng": {
+             "local_code": "Huyện Dầu Tiếng",
+             "iso_code": "1-5"
+        },
+        "Huyện Bàu Bàng": {
+             "local_code": "Huyện Bàu Bàng",
+             "iso_code": "1-6"
+        },
+        "Thị xã Bến Cát": {
+             "local_code": "Thị xã Bến Cát",
+             "iso_code": "1-7"
+        },
+        "Huyện Phú Giáo": {
+             "local_code": "Huyện Phú Giáo",
+             "iso_code": "1-8"
+        },
+        "Huyện Bắc Tân Uyên": {
+             "local_code": "Huyện Bắc Tân Uyên",
+             "iso_code": "1-9"
+        }
+    } 
+} 

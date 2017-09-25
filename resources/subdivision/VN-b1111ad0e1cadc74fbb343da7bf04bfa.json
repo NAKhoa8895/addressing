@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Đà Nẵng"
+    ],
+    "subdivisions": { 
+        "Quận Hải Châu": {
+             "local_code": "Quận Hải Châu",
+             "iso_code": "1-1"
+        },
+        "Quận Thanh Khê": {
+             "local_code": "Quận Thanh Khê",
+             "iso_code": "1-2"
+        },
+        "Quận Sơn Trà": {
+             "local_code": "Quận Sơn Trà",
+             "iso_code": "1-3"
+        },
+        "Quận Ngũ Hành Sơn": {
+             "local_code": "Quận Ngũ Hành Sơn",
+             "iso_code": "1-4"
+        },
+        "Quận Liên Chiểu": {
+             "local_code": "Quận Liên Chiểu",
+             "iso_code": "1-5"
+        },
+        "Quận Cẩm Lệ": {
+             "local_code": "Quận Cẩm Lệ",
+             "iso_code": "1-6"
+        },
+        "Huyện Hòa Vang": {
+             "local_code": "Huyện Hòa Vang",
+             "iso_code": "1-7"
+        }
+    } 
+} 

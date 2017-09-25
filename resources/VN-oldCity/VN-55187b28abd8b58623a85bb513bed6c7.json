@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bac Lieu Province"
+    ],
+    "subdivisions": { 
+        "Hoa Binh District": {
+             "local_code": "Huyện Hòa Bình",
+             "iso_code": "VN-55-1"
+        },
+        "Bac Lieu City": {
+             "local_code": "Thành phố Bạc Liêu",
+             "iso_code": "VN-55-1"
+        },
+        "Dong Hai District": {
+             "local_code": "Huyện Đông Hải",
+             "iso_code": "VN-55-1"
+        },
+        "Gia Rai District": {
+             "local_code": "Huyện Giá Rai",
+             "iso_code": "VN-55-1"
+        },
+        "Hong Dan District": {
+             "local_code": "Huyện Hồng Dân",
+             "iso_code": "VN-55-1"
+        },
+        "Phuoc Long District": {
+             "local_code": "Huyện Phước Long",
+             "iso_code": "VN-55-1"
+        },
+        "Vinh Loi District": {
+             "local_code": "Huyện Vĩnh Lợi",
+             "iso_code": "VN-55-1"
+        }
+    } 
+} 

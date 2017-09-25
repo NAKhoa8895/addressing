@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Nam Định"
+    ],
+    "subdivisions": { 
+        "Thành phố Nam Định": {
+             "local_code": "Thành phố Nam Định",
+             "iso_code": "1-1"
+        },
+        "Huyện Hải Hậu": {
+             "local_code": "Huyện Hải Hậu",
+             "iso_code": "1-2"
+        },
+        "Huyện Ý Yên": {
+             "local_code": "Huyện Ý Yên",
+             "iso_code": "1-3"
+        },
+        "Huyện Giao Thủy": {
+             "local_code": "Huyện Giao Thủy",
+             "iso_code": "1-4"
+        },
+        "Huyện Mỹ Lộc": {
+             "local_code": "Huyện Mỹ Lộc",
+             "iso_code": "1-5"
+        },
+        "Huyện Nam Trực": {
+             "local_code": "Huyện Nam Trực",
+             "iso_code": "1-6"
+        },
+        "Huyện Vụ Bản": {
+             "local_code": "Huyện Vụ Bản",
+             "iso_code": "1-7"
+        },
+        "Huyện Trực Ninh": {
+             "local_code": "Huyện Trực Ninh",
+             "iso_code": "1-8"
+        },
+        "Huyện Nghĩa Hưng": {
+             "local_code": "Huyện Nghĩa Hưng",
+             "iso_code": "1-9"
+        },
+        "Huyện Xuân Trường": {
+             "local_code": "Huyện Xuân Trường",
+             "iso_code": "1-10"
+        }
+    } 
+} 

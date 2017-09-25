@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Phu Yen Province"
+    ],
+    "subdivisions": { 
+        "Song Cau Town": {
+             "local_code": "Thị Xã Sông Cầu",
+             "iso_code": "VN-32-1"
+        },
+        "Tay Hoa District": {
+             "local_code": "Huyện Tây Hòa",
+             "iso_code": "VN-32-1"
+        },
+        "Dong Xuan District": {
+             "local_code": "Huyện Đồng Xuân",
+             "iso_code": "VN-32-1"
+        },
+        "Dong Hoa District": {
+             "local_code": "Huyện Đông Hòa",
+             "iso_code": "VN-32-1"
+        },
+        "Song Hinh District": {
+             "local_code": "Huyện Sông Hinh",
+             "iso_code": "VN-32-1"
+        },
+        "Son Hoa District": {
+             "local_code": "Huyện Sơn Hòa",
+             "iso_code": "VN-32-1"
+        },
+        "Tuy Hoa City": {
+             "local_code": "Thành phố Tuy Hòa",
+             "iso_code": "VN-32-1"
+        },
+        "Phu Hoa District": {
+             "local_code": "Huyện Phú Hòa",
+             "iso_code": "VN-32-1"
+        },
+        "Tuy An District": {
+             "local_code": "Huyện Tuy An",
+             "iso_code": "VN-32-1"
+        }
+    } 
+} 

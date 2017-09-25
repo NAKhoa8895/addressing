@@ -1,0 +1,77 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Gia Lai"
+    ],
+    "subdivisions": { 
+        "Thành phố Pleiku": {
+             "local_code": "Thành phố Pleiku",
+             "iso_code": "1-1"
+        },
+        "Huyện Kbang": {
+             "local_code": "Huyện Kbang",
+             "iso_code": "1-2"
+        },
+        "Huyện Kông Chro": {
+             "local_code": "Huyện Kông Chro",
+             "iso_code": "1-3"
+        },
+        "Huyện Krông Pa": {
+             "local_code": "Huyện Krông Pa",
+             "iso_code": "1-4"
+        },
+        "Huyện Mang Yang": {
+             "local_code": "Huyện Mang Yang",
+             "iso_code": "1-5"
+        },
+        "Huyện Ia Grai": {
+             "local_code": "Huyện Ia Grai",
+             "iso_code": "1-6"
+        },
+        "Huyện Đức Cơ": {
+             "local_code": "Huyện Đức Cơ",
+             "iso_code": "1-7"
+        },
+        "Huyện Chư Prông": {
+             "local_code": "Huyện Chư Prông",
+             "iso_code": "1-8"
+        },
+        "Huyện Chư Sê": {
+             "local_code": "Huyện Chư Sê",
+             "iso_code": "1-9"
+        },
+        "Huyện Phú Thiện": {
+             "local_code": "Huyện Phú Thiện",
+             "iso_code": "1-10"
+        },
+        "Thị xã Ayun Pa": {
+             "local_code": "Thị xã Ayun Pa",
+             "iso_code": "1-11"
+        },
+        "Huyện Ia Pa": {
+             "local_code": "Huyện Ia Pa",
+             "iso_code": "1-12"
+        },
+        "Thị xã An Khê": {
+             "local_code": "Thị xã An Khê",
+             "iso_code": "1-13"
+        },
+        "Huyện Chư Păh": {
+             "local_code": "Huyện Chư Păh",
+             "iso_code": "1-14"
+        },
+        "Huyện Chư Pưh": {
+             "local_code": "Huyện Chư Pưh",
+             "iso_code": "1-15"
+        },
+        "Huyện Đắk Đoa": {
+             "local_code": "Huyện Đắk Đoa",
+             "iso_code": "1-16"
+        },
+        "Huyện Đắk Pơ": {
+             "local_code": "Huyện Đắk Pơ",
+             "iso_code": "1-17"
+        }
+    } 
+} 

@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thai Binh Province"
+    ],
+    "subdivisions": { 
+        "Dong Hung District": {
+             "local_code": "Huyện Đông Hưng",
+             "iso_code": "VN-20-1"
+        },
+        "Vu Thu District": {
+             "local_code": "Huyện Vũ Thư",
+             "iso_code": "VN-20-1"
+        },
+        "Thai Binh City": {
+             "local_code": "Thành phố Thái Bình",
+             "iso_code": "VN-20-1"
+        },
+        "Hung Ha District": {
+             "local_code": "Huyện Hưng Hà",
+             "iso_code": "VN-20-1"
+        },
+        "Quynh Phu District": {
+             "local_code": "Huyện Quỳnh Phụ",
+             "iso_code": "VN-20-1"
+        },
+        "Thai Thuy District": {
+             "local_code": "Huyện Thái Thụy",
+             "iso_code": "VN-20-1"
+        },
+        "Tien Hai District": {
+             "local_code": "Huyện Tiền Hải",
+             "iso_code": "VN-20-1"
+        },
+        "Kien Xuong District": {
+             "local_code": "Huyện Kiến Xương",
+             "iso_code": "VN-20-1"
+        }
+    } 
+} 

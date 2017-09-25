@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Điện Biên"
+    ],
+    "subdivisions": { 
+        "Thành phố Điện Biên Phủ": {
+             "local_code": "Thành phố Điện Biên Phủ",
+             "iso_code": "1-1"
+        },
+        "Huyện Điện Biên Đông": {
+             "local_code": "Huyện Điện Biên Đông",
+             "iso_code": "1-2"
+        },
+        "Huyện Mường Ảng": {
+             "local_code": "Huyện Mường Ảng",
+             "iso_code": "1-3"
+        },
+        "Huyện Điện Biên": {
+             "local_code": "Huyện Điện Biên",
+             "iso_code": "1-4"
+        },
+        "Huyện Mường Chà": {
+             "local_code": "Huyện Mường Chà",
+             "iso_code": "1-5"
+        },
+        "Huyện Mường Nhé": {
+             "local_code": "Huyện Mường Nhé",
+             "iso_code": "1-6"
+        },
+        "Huyện Tủa Chùa": {
+             "local_code": "Huyện Tủa Chùa",
+             "iso_code": "1-7"
+        },
+        "Huyện Tuần Giáo": {
+             "local_code": "Huyện Tuần Giáo",
+             "iso_code": "1-8"
+        },
+        "Thị xã Mường Lay": {
+             "local_code": "Thị xã Mường Lay",
+             "iso_code": "1-9"
+        }
+    } 
+} 

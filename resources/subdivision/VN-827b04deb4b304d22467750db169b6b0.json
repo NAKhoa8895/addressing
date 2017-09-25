@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bình Thuận"
+    ],
+    "subdivisions": { 
+        "Thành phố Phan Thiết": {
+             "local_code": "Thành phố Phan Thiết",
+             "iso_code": "1-1"
+        },
+        "Huyện Hàm Thuận Nam": {
+             "local_code": "Huyện Hàm Thuận Nam",
+             "iso_code": "1-2"
+        },
+        "Huyện Hàm Thuận Bắc": {
+             "local_code": "Huyện Hàm Thuận Bắc",
+             "iso_code": "1-3"
+        },
+        "Thị xã La Gi": {
+             "local_code": "Thị xã La Gi",
+             "iso_code": "1-4"
+        },
+        "Huyện Đức Linh": {
+             "local_code": "Huyện Đức Linh",
+             "iso_code": "1-5"
+        },
+        "Huyện Bắc Bình": {
+             "local_code": "Huyện Bắc Bình",
+             "iso_code": "1-6"
+        },
+        "Huyện Tuy Phong": {
+             "local_code": "Huyện Tuy Phong",
+             "iso_code": "1-7"
+        },
+        "Huyện Hàm Tân": {
+             "local_code": "Huyện Hàm Tân",
+             "iso_code": "1-8"
+        },
+        "Huyện Tánh Linh": {
+             "local_code": "Huyện Tánh Linh",
+             "iso_code": "1-9"
+        },
+        "Huyện đảo Phú Quý": {
+             "local_code": "Huyện đảo Phú Quý",
+             "iso_code": "1-10"
+        }
+    } 
+} 

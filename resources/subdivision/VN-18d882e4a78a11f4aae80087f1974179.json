@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Vĩnh Phúc"
+    ],
+    "subdivisions": { 
+        "Thành phố Vĩnh Yên": {
+             "local_code": "Thành phố Vĩnh Yên",
+             "iso_code": "1-1"
+        },
+        "Huyện Bình Xuyên": {
+             "local_code": "Huyện Bình Xuyên",
+             "iso_code": "1-2"
+        },
+        "Huyện Vĩnh Tường": {
+             "local_code": "Huyện Vĩnh Tường",
+             "iso_code": "1-3"
+        },
+        "Huyện Yên Lạc": {
+             "local_code": "Huyện Yên Lạc",
+             "iso_code": "1-4"
+        },
+        "Huyện Lập Thạch": {
+             "local_code": "Huyện Lập Thạch",
+             "iso_code": "1-5"
+        },
+        "Huyện Tam Dương": {
+             "local_code": "Huyện Tam Dương",
+             "iso_code": "1-6"
+        },
+        "Huyện Tam Đảo": {
+             "local_code": "Huyện Tam Đảo",
+             "iso_code": "1-7"
+        },
+        "Huyện Sông Lô": {
+             "local_code": "Huyện Sông Lô",
+             "iso_code": "1-8"
+        },
+        "Thị xã Phúc Yên": {
+             "local_code": "Thị xã Phúc Yên",
+             "iso_code": "1-9"
+        }
+    } 
+} 

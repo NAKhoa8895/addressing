@@ -1,0 +1,57 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hải Dương"
+    ],
+    "subdivisions": { 
+        "Huyện Nam Sách": {
+             "local_code": "Huyện Nam Sách",
+             "iso_code": "1-1"
+        },
+        "Thành phố Hải Dương": {
+             "local_code": "Thành phố Hải Dương",
+             "iso_code": "1-2"
+        },
+        "Huyện Bình Giang": {
+             "local_code": "Huyện Bình Giang",
+             "iso_code": "1-3"
+        },
+        "Huyện Cẩm Giàng": {
+             "local_code": "Huyện Cẩm Giàng",
+             "iso_code": "1-4"
+        },
+        "Huyện Kinh Môn": {
+             "local_code": "Huyện Kinh Môn",
+             "iso_code": "1-5"
+        },
+        "Huyện Gia Lộc": {
+             "local_code": "Huyện Gia Lộc",
+             "iso_code": "1-6"
+        },
+        "Huyện Kim Thành": {
+             "local_code": "Huyện Kim Thành",
+             "iso_code": "1-7"
+        },
+        "Huyện Tứ Kỳ": {
+             "local_code": "Huyện Tứ Kỳ",
+             "iso_code": "1-8"
+        },
+        "Huyện Thanh Miện": {
+             "local_code": "Huyện Thanh Miện",
+             "iso_code": "1-9"
+        },
+        "Huyện Thanh Hà": {
+             "local_code": "Huyện Thanh Hà",
+             "iso_code": "1-10"
+        },
+        "Huyện Ninh Giang": {
+             "local_code": "Huyện Ninh Giang",
+             "iso_code": "1-11"
+        },
+        "Thị xã Chí Linh": {
+             "local_code": "Thị xã Chí Linh",
+             "iso_code": "1-12"
+        }
+    } 
+} 

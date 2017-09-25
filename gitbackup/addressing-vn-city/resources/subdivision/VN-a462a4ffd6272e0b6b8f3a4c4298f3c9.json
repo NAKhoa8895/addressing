@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lao Cai Province"
+    ],
+    "subdivisions": { 
+        "Bat Xat District": {
+             "local_code": "Huyện Bát Xát",
+             "iso_code": "VN-02-1"
+        },
+        "Bao Yen District": {
+             "local_code": "Huyện Bảo Yên",
+             "iso_code": "VN-02-1"
+        },
+        "Bac Ha District": {
+             "local_code": "Huyện Bắc Hà",
+             "iso_code": "VN-02-1"
+        },
+        "Muong Khuong District": {
+             "local_code": "Huyện Mường Khương",
+             "iso_code": "VN-02-1"
+        },
+        "Xi Ma Cai District": {
+             "local_code": "Huyện Xi Ma Cai",
+             "iso_code": "VN-02-1"
+        },
+        "Lao Cai City": {
+             "local_code": "Thành phố Lào Cai",
+             "iso_code": "VN-02-1"
+        },
+        "Sa Pa District": {
+             "local_code": "Huyện Sa Pa",
+             "iso_code": "VN-02-1"
+        },
+        "Van Ban District": {
+             "local_code": "Huyện Văn Bàn",
+             "iso_code": "VN-02-1"
+        },
+        "Bao Thang District": {
+             "local_code": "Huyện Bảo Thắng",
+             "iso_code": "VN-02-1"
+        }
+    } 
+} 

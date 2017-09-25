@@ -1,0 +1,65 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Kien Giang Province"
+    ],
+    "subdivisions": { 
+        "Rach Gia City": {
+             "local_code": "Thành phố Rạch Giá",
+             "iso_code": "VN-47-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-47-1"
+        },
+        "Tan Hiep District": {
+             "local_code": "Huyện Tân Hiệp",
+             "iso_code": "VN-47-1"
+        },
+        "Giong Rieng District": {
+             "local_code": "Huyện Giồng Riềng",
+             "iso_code": "VN-47-1"
+        },
+        "An Bien District": {
+             "local_code": "Huyện An Biên",
+             "iso_code": "VN-47-1"
+        },
+        "Go Quao District": {
+             "local_code": "Huyện Gò Quao",
+             "iso_code": "VN-47-1"
+        },
+        "Giang Thanh District": {
+             "local_code": "Huyện Giang Thành",
+             "iso_code": "VN-47-1"
+        },
+        "U Minh Thuong District": {
+             "local_code": "Huyện U Minh Thượng",
+             "iso_code": "VN-47-1"
+        },
+        "Vinh Thuan District": {
+             "local_code": "Huyện Vĩnh Thuận",
+             "iso_code": "VN-47-1"
+        },
+        "An Minh District": {
+             "local_code": "Huyện An Minh",
+             "iso_code": "VN-47-1"
+        },
+        "Hon Dat District": {
+             "local_code": "Huyện Hòn Đất",
+             "iso_code": "VN-47-1"
+        },
+        "Kien Luong District": {
+             "local_code": "Huyện Kiên Lương",
+             "iso_code": "VN-47-1"
+        },
+        "Ha Tien Town": {
+             "local_code": "Thị xã Hà Tiên",
+             "iso_code": "VN-47-1"
+        },
+        "dao Phu Quoc District": {
+             "local_code": "Huyện đảo Phú Quốc",
+             "iso_code": "VN-47-1"
+        }
+    } 
+} 

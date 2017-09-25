@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lai Chau Province"
+    ],
+    "subdivisions": { 
+        "Lai Chau City": {
+             "local_code": "Thành phố Lai Châu",
+             "iso_code": "VN-01-1"
+        },
+        "Muong Te District": {
+             "local_code": "Huyện Mường Tè",
+             "iso_code": "VN-01-1"
+        },
+        "Nam Nhum District": {
+             "local_code": "Huyện Nậm Nhùm",
+             "iso_code": "VN-01-1"
+        },
+        "Phong Tho District": {
+             "local_code": "Huyện Phong Thổ",
+             "iso_code": "VN-01-1"
+        },
+        "Sin Ho District": {
+             "local_code": "Huyện Sìn Hồ",
+             "iso_code": "VN-01-1"
+        },
+        "Tam Duong District": {
+             "local_code": "Huyện Tam Đường",
+             "iso_code": "VN-01-1"
+        },
+        "Tan Uyen District": {
+             "local_code": "Huyện Tân Uyên",
+             "iso_code": "VN-01-1"
+        },
+        "Than Uyen District": {
+             "local_code": "Huyện Than Uyên",
+             "iso_code": "VN-01-1"
+        }
+    } 
+} 

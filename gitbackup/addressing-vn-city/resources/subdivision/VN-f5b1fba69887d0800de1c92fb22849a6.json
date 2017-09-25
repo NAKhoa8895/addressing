@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quang Tri Province"
+    ],
+    "subdivisions": { 
+        "Dong Ha City": {
+             "local_code": "Thành phố Đông Hà",
+             "iso_code": "VN-25-1"
+        },
+        "Quang Tri Town": {
+             "local_code": "Thị xã Quảng Trị",
+             "iso_code": "VN-25-1"
+        },
+        "Huong Hoa District": {
+             "local_code": "Huyện Hướng Hóa",
+             "iso_code": "VN-25-1"
+        },
+        "Vinh Linh District": {
+             "local_code": "Huyện Vĩnh Linh",
+             "iso_code": "VN-25-1"
+        },
+        "Cam Lo District": {
+             "local_code": "Huyện Cam Lộ",
+             "iso_code": "VN-25-1"
+        },
+        "Hai Lang District": {
+             "local_code": "Huyện Hải Lăng",
+             "iso_code": "VN-25-1"
+        },
+        "Gio Linh District": {
+             "local_code": "Huyện Gio Linh",
+             "iso_code": "VN-25-1"
+        },
+        "Trieu Phong District": {
+             "local_code": "Huyện Triệu Phong",
+             "iso_code": "VN-25-1"
+        },
+        "Da Krong District": {
+             "local_code": "Huyện Đa Krông",
+             "iso_code": "VN-25-1"
+        }
+    } 
+} 

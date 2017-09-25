@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ha Giang Province"
+    ],
+    "subdivisions": { 
+        "Ha Giang City": {
+             "local_code": "Thành phố Hà Giang",
+             "iso_code": "VN-03-1"
+        },
+        "Bac Quang District": {
+             "local_code": "Huyện Bắc Quang",
+             "iso_code": "VN-03-1"
+        },
+        "Vi Xuyen District": {
+             "local_code": "Huyện Vị Xuyên",
+             "iso_code": "VN-03-1"
+        },
+        "Dong Van District": {
+             "local_code": "Huyện Đồng Văn",
+             "iso_code": "VN-03-1"
+        },
+        "Hoang Su Phi District": {
+             "local_code": "Huyện Hoàng Su Phì",
+             "iso_code": "VN-03-1"
+        },
+        "Meo Vac District": {
+             "local_code": "Huyện Mèo Vạc",
+             "iso_code": "VN-03-1"
+        },
+        "Quan Ba District": {
+             "local_code": "Huyện Quản Bạ",
+             "iso_code": "VN-03-1"
+        },
+        "Quang Binh District": {
+             "local_code": "Huyện Quang Bình",
+             "iso_code": "VN-03-1"
+        },
+        "Xin Man District": {
+             "local_code": "Huyện Xín Mần",
+             "iso_code": "VN-03-1"
+        },
+        "Yen Minh District": {
+             "local_code": "Huyện Yên Minh",
+             "iso_code": "VN-03-1"
+        },
+        "Bac Me District": {
+             "local_code": "Huyện Bắc Mê",
+             "iso_code": "VN-03-1"
+        }
+    } 
+} 

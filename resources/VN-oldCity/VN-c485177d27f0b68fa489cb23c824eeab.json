@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Dong Nai Province"
+    ],
+    "subdivisions": { 
+        "Bien Hoa City": {
+             "local_code": "Thành phố Biên Hòa",
+             "iso_code": "VN-39-1"
+        },
+        "Trang Bom District": {
+             "local_code": "Huyện Trảng Bom",
+             "iso_code": "VN-39-1"
+        },
+        "Tan Phu District": {
+             "local_code": "Huyện Tân Phú",
+             "iso_code": "VN-39-1"
+        },
+        "Cam My District": {
+             "local_code": "Huyện Cẩm Mỹ",
+             "iso_code": "VN-39-1"
+        },
+        "Xuan Loc District": {
+             "local_code": "Huyện Xuân Lộc",
+             "iso_code": "VN-39-1"
+        },
+        "Thong Nhat District": {
+             "local_code": "Huyện Thống Nhất",
+             "iso_code": "VN-39-1"
+        },
+        "Nhon Trach District": {
+             "local_code": "Huyện Nhơn Trạch",
+             "iso_code": "VN-39-1"
+        },
+        "Long Thanh District": {
+             "local_code": "Huyện Long Thành",
+             "iso_code": "VN-39-1"
+        },
+        "Dinh Quan District": {
+             "local_code": "Huyện Định Quán",
+             "iso_code": "VN-39-1"
+        },
+        "Long Khanh Town": {
+             "local_code": "Thị xã Long Khánh",
+             "iso_code": "VN-39-1"
+        },
+        "Vinh Cuu District": {
+             "local_code": "Huyện Vĩnh Cửu",
+             "iso_code": "VN-39-1"
+        }
+    } 
+} 

@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bà Rịa – Vũng Tàu"
+    ],
+    "subdivisions": { 
+        "Thành phố Vũng Tàu": {
+             "local_code": "Thành phố Vũng Tàu",
+             "iso_code": "1-1"
+        },
+        "Huyện Tân Thành": {
+             "local_code": "Huyện Tân Thành",
+             "iso_code": "1-2"
+        },
+        "Huyện Châu Đức": {
+             "local_code": "Huyện Châu Đức",
+             "iso_code": "1-3"
+        },
+        "Huyện Đất Đỏ": {
+             "local_code": "Huyện Đất Đỏ",
+             "iso_code": "1-4"
+        },
+        "Thành phố Bà Rịa": {
+             "local_code": "Thành phố Bà Rịa",
+             "iso_code": "1-5"
+        },
+        "Huyện Xuyên Mộc": {
+             "local_code": "Huyện Xuyên Mộc",
+             "iso_code": "1-6"
+        },
+        "Huyện Long Điền": {
+             "local_code": "Huyện Long Điền",
+             "iso_code": "1-7"
+        },
+        "Huyện đảo Côn Đảo": {
+             "local_code": "Huyện đảo Côn Đảo",
+             "iso_code": "1-8"
+        }
+    } 
+} 

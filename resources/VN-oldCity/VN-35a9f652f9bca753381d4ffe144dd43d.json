@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thua Thien-Hue Province"
+    ],
+    "subdivisions": { 
+        "Hue City": {
+             "local_code": "Thành phố Huế",
+             "iso_code": "VN-26-1"
+        },
+        "Phu Vang District": {
+             "local_code": "Huyện Phú Vang",
+             "iso_code": "VN-26-1"
+        },
+        "Phu Loc District": {
+             "local_code": "Huyện Phú Lộc",
+             "iso_code": "VN-26-1"
+        },
+        "A Luoi District": {
+             "local_code": "Huyện A Lưới",
+             "iso_code": "VN-26-1"
+        },
+        "Phong Dien District": {
+             "local_code": "Huyện Phong Điền",
+             "iso_code": "VN-26-1"
+        },
+        "Huong Tra Town": {
+             "local_code": "Thị xã Hương Trà",
+             "iso_code": "VN-26-1"
+        },
+        "Huong Thuy Town": {
+             "local_code": "Thị xã Hương Thủy",
+             "iso_code": "VN-26-1"
+        },
+        "Nam Dong District": {
+             "local_code": "Huyện Nam Đông",
+             "iso_code": "VN-26-1"
+        },
+        "Quang Dien District": {
+             "local_code": "Huyện Quảng Điền",
+             "iso_code": "VN-26-1"
+        }
+    } 
+} 

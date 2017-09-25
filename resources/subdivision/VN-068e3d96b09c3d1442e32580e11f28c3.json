@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hậu Giang"
+    ],
+    "subdivisions": { 
+        "Thị xã Long Mỹ": {
+             "local_code": "Thị xã Long Mỹ",
+             "iso_code": "1-1"
+        },
+        "Thành phố Vị Thanh": {
+             "local_code": "Thành phố Vị Thanh",
+             "iso_code": "1-2"
+        },
+        "Thị xã Ngã Bảy": {
+             "local_code": "Thị xã Ngã Bảy",
+             "iso_code": "1-3"
+        },
+        "Huyện Phụng Hiệp": {
+             "local_code": "Huyện Phụng Hiệp",
+             "iso_code": "1-4"
+        },
+        "Huyện Châu Thành A": {
+             "local_code": "Huyện Châu Thành A",
+             "iso_code": "1-5"
+        },
+        "Huyện Vị Thuỷ": {
+             "local_code": "Huyện Vị Thuỷ",
+             "iso_code": "1-6"
+        },
+        "Huyện Long Mỹ": {
+             "local_code": "Huyện Long Mỹ",
+             "iso_code": "1-7"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-8"
+        }
+    } 
+} 

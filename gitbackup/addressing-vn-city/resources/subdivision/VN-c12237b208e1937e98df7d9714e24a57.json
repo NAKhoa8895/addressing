@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Tien Giang Province"
+    ],
+    "subdivisions": { 
+        "My Tho City": {
+             "local_code": "Thành phố Mỹ Tho",
+             "iso_code": "VN-46-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-46-1"
+        },
+        "Cho Gao District": {
+             "local_code": "Huyện Chợ Gạo",
+             "iso_code": "VN-46-1"
+        },
+        "Cai Be District": {
+             "local_code": "Huyện Cái Bè",
+             "iso_code": "VN-46-1"
+        },
+        "Tan Phu Dong District": {
+             "local_code": "Huyện Tân Phú Đông",
+             "iso_code": "VN-46-1"
+        },
+        "Go Cong Dong District": {
+             "local_code": "Huyện Gò Công Đông",
+             "iso_code": "VN-46-1"
+        },
+        "Go Cong Tay District": {
+             "local_code": "Huyện Gò Công Tây",
+             "iso_code": "VN-46-1"
+        },
+        "Tan Phuoc District": {
+             "local_code": "Huyện Tân Phước",
+             "iso_code": "VN-46-1"
+        },
+        "Cai Lay Town": {
+             "local_code": "Thị xã Cai Lậy",
+             "iso_code": "VN-46-1"
+        },
+        "Go Cong Town": {
+             "local_code": "Thị xã Gò Công",
+             "iso_code": "VN-46-1"
+        },
+        "Cai Lay District": {
+             "local_code": "Huyện Cai Lậy",
+             "iso_code": "VN-46-1"
+        }
+    } 
+} 

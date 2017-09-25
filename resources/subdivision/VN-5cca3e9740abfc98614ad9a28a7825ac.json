@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bạc Liêu"
+    ],
+    "subdivisions": { 
+        "Huyện Hòa Bình": {
+             "local_code": "Huyện Hòa Bình",
+             "iso_code": "1-1"
+        },
+        "Thành phố Bạc Liêu": {
+             "local_code": "Thành phố Bạc Liêu",
+             "iso_code": "1-2"
+        },
+        "Huyện Đông Hải": {
+             "local_code": "Huyện Đông Hải",
+             "iso_code": "1-3"
+        },
+        "Huyện Giá Rai": {
+             "local_code": "Huyện Giá Rai",
+             "iso_code": "1-4"
+        },
+        "Huyện Hồng Dân": {
+             "local_code": "Huyện Hồng Dân",
+             "iso_code": "1-5"
+        },
+        "Huyện Phước Long": {
+             "local_code": "Huyện Phước Long",
+             "iso_code": "1-6"
+        },
+        "Huyện Vĩnh Lợi": {
+             "local_code": "Huyện Vĩnh Lợi",
+             "iso_code": "1-7"
+        }
+    } 
+} 

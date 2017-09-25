@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Trà Vinh"
+    ],
+    "subdivisions": { 
+        "Thành phố Trà Vinh": {
+             "local_code": "Thành phố Trà Vinh",
+             "iso_code": "1-1"
+        },
+        "Thị xã Duyên Hải": {
+             "local_code": "Thị xã Duyên Hải",
+             "iso_code": "1-2"
+        },
+        "Huyện Cầu Ngang": {
+             "local_code": "Huyện Cầu Ngang",
+             "iso_code": "1-3"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-4"
+        },
+        "Huyện Tiểu Cần": {
+             "local_code": "Huyện Tiểu Cần",
+             "iso_code": "1-5"
+        },
+        "Huyện Trà Cú": {
+             "local_code": "Huyện Trà Cú",
+             "iso_code": "1-6"
+        },
+        "Huyện Càng Long": {
+             "local_code": "Huyện Càng Long",
+             "iso_code": "1-7"
+        },
+        "Huyện Cầu Kè": {
+             "local_code": "Huyện Cầu Kè",
+             "iso_code": "1-8"
+        },
+        "Huyện Duyên Hải": {
+             "local_code": "Huyện Duyên Hải",
+             "iso_code": "1-9"
+        }
+    } 
+} 

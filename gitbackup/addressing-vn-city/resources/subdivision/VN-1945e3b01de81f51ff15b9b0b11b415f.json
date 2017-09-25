@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Dien Bien Province"
+    ],
+    "subdivisions": { 
+        "Dien Bien Phu City": {
+             "local_code": "Thành phố Điện Biên Phủ",
+             "iso_code": "VN-71-1"
+        },
+        "Dien Bien Dong District": {
+             "local_code": "Huyện Điện Biên Đông",
+             "iso_code": "VN-71-1"
+        },
+        "Muong Ang District": {
+             "local_code": "Huyện Mường Ảng",
+             "iso_code": "VN-71-1"
+        },
+        "Dien Bien District": {
+             "local_code": "Huyện Điện Biên",
+             "iso_code": "VN-71-1"
+        },
+        "Muong Cha District": {
+             "local_code": "Huyện Mường Chà",
+             "iso_code": "VN-71-1"
+        },
+        "Muong Nhe District": {
+             "local_code": "Huyện Mường Nhé",
+             "iso_code": "VN-71-1"
+        },
+        "Tua Chua District": {
+             "local_code": "Huyện Tủa Chùa",
+             "iso_code": "VN-71-1"
+        },
+        "Tuan Giao District": {
+             "local_code": "Huyện Tuần Giáo",
+             "iso_code": "VN-71-1"
+        },
+        "Muong Lay Town": {
+             "local_code": "Thị xã Mường Lay",
+             "iso_code": "VN-71-1"
+        }
+    } 
+} 

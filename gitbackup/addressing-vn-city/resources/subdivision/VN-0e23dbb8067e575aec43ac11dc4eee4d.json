@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "An Giang Province"
+    ],
+    "subdivisions": { 
+        "Long Xuyen City": {
+             "local_code": "Thành phố Long Xuyên",
+             "iso_code": "VN-44-1"
+        },
+        "Thoai Son District": {
+             "local_code": "Huyện Thoại Sơn",
+             "iso_code": "VN-44-1"
+        },
+        "Chau Thanh District": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "VN-44-1"
+        },
+        "Tri Ton District": {
+             "local_code": "Huyện Tri Tôn",
+             "iso_code": "VN-44-1"
+        },
+        "Tinh Bien District": {
+             "local_code": "Huyện Tịnh Biên",
+             "iso_code": "VN-44-1"
+        },
+        "Chau Doc City": {
+             "local_code": "Thành phố Châu Đốc",
+             "iso_code": "VN-44-1"
+        },
+        "An Phu District": {
+             "local_code": "Huyện An Phú",
+             "iso_code": "VN-44-1"
+        },
+        "Tan Chau District": {
+             "local_code": "Huyện Tân Châu",
+             "iso_code": "VN-44-1"
+        },
+        "Phu Tan District": {
+             "local_code": "Huyện Phú Tân",
+             "iso_code": "VN-44-1"
+        },
+        "Cho Moi District": {
+             "local_code": "Huyện Chợ Mới",
+             "iso_code": "VN-44-1"
+        },
+        "Chau Phu District": {
+             "local_code": "Huyện Châu Phú",
+             "iso_code": "VN-44-1"
+        }
+    } 
+} 

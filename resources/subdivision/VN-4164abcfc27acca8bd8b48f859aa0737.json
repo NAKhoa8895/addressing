@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ninh Thuận"
+    ],
+    "subdivisions": { 
+        "Huyện Ninh Sơn": {
+             "local_code": "Huyện Ninh Sơn",
+             "iso_code": "1-1"
+        },
+        "Thành phố Phan Rang – Tháp Chàm": {
+             "local_code": "Thành phố Phan Rang – Tháp Chàm",
+             "iso_code": "1-2"
+        },
+        "Huyện Ninh Hải": {
+             "local_code": "Huyện Ninh Hải",
+             "iso_code": "1-3"
+        },
+        "Huyện Ninh Phước": {
+             "local_code": "Huyện Ninh Phước",
+             "iso_code": "1-4"
+        },
+        "Huyện Bác Ái": {
+             "local_code": "Huyện Bác Ái",
+             "iso_code": "1-5"
+        },
+        "Huyện Thuận Nam": {
+             "local_code": "Huyện Thuận Nam",
+             "iso_code": "1-6"
+        },
+        "Huyện Thuận Bắc": {
+             "local_code": "Huyện Thuận Bắc",
+             "iso_code": "1-7"
+        }
+    } 
+} 

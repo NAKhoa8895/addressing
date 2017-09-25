@@ -1,0 +1,137 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hanoi City"
+    ],
+    "subdivisions": { 
+        "Ha Dong District": {
+             "local_code": "Quận Hà Đông",
+             "iso_code": "VN-HN-1"
+        },
+        "Bac Tu Liem District": {
+             "local_code": "Quận Bắc Từ Liêm",
+             "iso_code": "VN-HN-1"
+        },
+        "Ba Dinh District": {
+             "local_code": "Quận Ba Đình",
+             "iso_code": "VN-HN-1"
+        },
+        "Cau Giay District": {
+             "local_code": "Quận Cầu Giấy",
+             "iso_code": "VN-HN-1"
+        },
+        "Dong Da District": {
+             "local_code": "Quận Đống Đa",
+             "iso_code": "VN-HN-1"
+        },
+        "Hai Ba Trung District": {
+             "local_code": "Quận Hai Bà Trưng",
+             "iso_code": "VN-HN-1"
+        },
+        "Hoan Kiem District": {
+             "local_code": "Quận Hoàn Kiếm",
+             "iso_code": "VN-HN-1"
+        },
+        "Hoang Mai District": {
+             "local_code": "Quận Hoàng Mai",
+             "iso_code": "VN-HN-1"
+        },
+        "Long Bien District": {
+             "local_code": "Quận Long Biên",
+             "iso_code": "VN-HN-1"
+        },
+        "Tay Ho District": {
+             "local_code": "Quận Tây Hồ",
+             "iso_code": "VN-HN-1"
+        },
+        "Thanh Xuan District": {
+             "local_code": "Quận Thanh Xuân",
+             "iso_code": "VN-HN-1"
+        },
+        "Me Linh District": {
+             "local_code": "Huyện Mê Linh",
+             "iso_code": "VN-HN-1"
+        },
+        "Dong Anh District": {
+             "local_code": "Huyện Đông Anh",
+             "iso_code": "VN-HN-1"
+        },
+        "Soc Son District": {
+             "local_code": "Huyện Sóc Sơn",
+             "iso_code": "VN-HN-1"
+        },
+        "Gia Lam District": {
+             "local_code": "Huyện Gia Lâm",
+             "iso_code": "VN-HN-1"
+        },
+        "Thanh Tri District": {
+             "local_code": "Huyện Thanh Trì",
+             "iso_code": "VN-HN-1"
+        },
+        "Son Tay Town": {
+             "local_code": "Thị xã Sơn Tây",
+             "iso_code": "VN-HN-1"
+        },
+        "Nam Tu Liem District": {
+             "local_code": "Quận Nam Từ Liêm",
+             "iso_code": "VN-HN-1"
+        },
+        "Phu Xuyen District": {
+             "local_code": "Huyện Phú Xuyên",
+             "iso_code": "VN-HN-1"
+        },
+        "Dac Biet District": {
+             "local_code": "Quận Đặc Biệt",
+             "iso_code": "VN-HN-1"
+        },
+        "Ba Vi District": {
+             "local_code": "Huyện Ba Vì",
+             "iso_code": "VN-HN-1"
+        },
+        "Dan Phuong District": {
+             "local_code": "Huyện Đan Phượng",
+             "iso_code": "VN-HN-1"
+        },
+        "Hoai Duc District": {
+             "local_code": "Huyện Hoài Đức",
+             "iso_code": "VN-HN-1"
+        },
+        "My Duc District": {
+             "local_code": "Huyện Mỹ Đức",
+             "iso_code": "VN-HN-1"
+        },
+        "Phuc Tho District": {
+             "local_code": "Huyện Phúc Thọ",
+             "iso_code": "VN-HN-1"
+        },
+        "Thach That District": {
+             "local_code": "Huyện Thạch Thất",
+             "iso_code": "VN-HN-1"
+        },
+        "Thanh Oai District": {
+             "local_code": "Huyện Thanh Oai",
+             "iso_code": "VN-HN-1"
+        },
+        "Ung Hoa District": {
+             "local_code": "Huyện Ứng Hòa",
+             "iso_code": "VN-HN-1"
+        },
+        "Chuong My District": {
+             "local_code": "Huyện Chương Mỹ",
+             "iso_code": "VN-HN-1"
+        },
+        "Quoc Oai  District": {
+             "local_code": "Huyện Quốc Oai ",
+             "iso_code": "VN-HN-1"
+        },
+        "Thuong Tin District": {
+             "local_code": "Huyện Thường Tín",
+             "iso_code": "VN-HN-1"
+        },
+        "Vat Tu HN District": {
+             "local_code": "Quận Vật Tư HN",
+             "iso_code": "VN-HN-1"
+        }
+    } 
+} 

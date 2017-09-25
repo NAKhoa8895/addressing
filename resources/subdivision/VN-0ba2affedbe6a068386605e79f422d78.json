@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Vĩnh Long"
+    ],
+    "subdivisions": { 
+        "Thành phố Vĩnh Long": {
+             "local_code": "Thành phố Vĩnh Long",
+             "iso_code": "1-1"
+        },
+        "Huyện Mang Thít": {
+             "local_code": "Huyện Mang Thít",
+             "iso_code": "1-2"
+        },
+        "Huyện Vũng Liêm": {
+             "local_code": "Huyện Vũng Liêm",
+             "iso_code": "1-3"
+        },
+        "Huyện Long Hồ": {
+             "local_code": "Huyện Long Hồ",
+             "iso_code": "1-4"
+        },
+        "Huyện Tam Bình": {
+             "local_code": "Huyện Tam Bình",
+             "iso_code": "1-5"
+        },
+        "Huyện Trà Ôn": {
+             "local_code": "Huyện Trà Ôn",
+             "iso_code": "1-6"
+        },
+        "Thị xã Bình Minh": {
+             "local_code": "Thị xã Bình Minh",
+             "iso_code": "1-7"
+        },
+        "Huyện Bình Tân": {
+             "local_code": "Huyện Bình Tân",
+             "iso_code": "1-8"
+        }
+    } 
+} 

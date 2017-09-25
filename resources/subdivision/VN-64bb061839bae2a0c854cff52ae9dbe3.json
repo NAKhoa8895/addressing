@@ -1,0 +1,61 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Cao Bằng"
+    ],
+    "subdivisions": { 
+        "Thành phố Cao Bằng": {
+             "local_code": "Thành phố Cao Bằng",
+             "iso_code": "1-1"
+        },
+        "Huyện Bảo Lâm": {
+             "local_code": "Huyện Bảo Lâm",
+             "iso_code": "1-2"
+        },
+        "Huyện Hà Quảng": {
+             "local_code": "Huyện Hà Quảng",
+             "iso_code": "1-3"
+        },
+        "Huyện Hòa An": {
+             "local_code": "Huyện Hòa An",
+             "iso_code": "1-4"
+        },
+        "Huyện Phục Hòa": {
+             "local_code": "Huyện Phục Hòa",
+             "iso_code": "1-5"
+        },
+        "Huyện Trà Lĩnh": {
+             "local_code": "Huyện Trà Lĩnh",
+             "iso_code": "1-6"
+        },
+        "Huyện Thông Nông": {
+             "local_code": "Huyện Thông Nông",
+             "iso_code": "1-7"
+        },
+        "Huyện Thạch An": {
+             "local_code": "Huyện Thạch An",
+             "iso_code": "1-8"
+        },
+        "Huyện Quảng Uyên": {
+             "local_code": "Huyện Quảng Uyên",
+             "iso_code": "1-9"
+        },
+        "Huyện Nguyên Bình": {
+             "local_code": "Huyện Nguyên Bình",
+             "iso_code": "1-10"
+        },
+        "Huyện Hạ Lang": {
+             "local_code": "Huyện Hạ Lang",
+             "iso_code": "1-11"
+        },
+        "Huyện Bảo Lạc": {
+             "local_code": "Huyện Bảo Lạc",
+             "iso_code": "1-12"
+        },
+        "Huyện Trùng Khánh": {
+             "local_code": "Huyện Trùng Khánh",
+             "iso_code": "1-13"
+        }
+    } 
+} 

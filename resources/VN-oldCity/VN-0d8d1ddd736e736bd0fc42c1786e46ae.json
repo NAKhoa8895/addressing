@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hung Yen Province"
+    ],
+    "subdivisions": { 
+        "Hung Yen City": {
+             "local_code": "Thành phố Hưng Yên",
+             "iso_code": "VN-66-1"
+        },
+        "Kim Dong District": {
+             "local_code": "Huyện Kim Động",
+             "iso_code": "VN-66-1"
+        },
+        "Phu Cu District": {
+             "local_code": "Huyện Phù Cừ",
+             "iso_code": "VN-66-1"
+        },
+        "An Thi District": {
+             "local_code": "Huyện Ân Thi",
+             "iso_code": "VN-66-1"
+        },
+        "Khoai Chau District": {
+             "local_code": "Huyện Khoái Châu",
+             "iso_code": "VN-66-1"
+        },
+        "My Hao District": {
+             "local_code": "Huyện Mỹ Hào",
+             "iso_code": "VN-66-1"
+        },
+        "Yen My District": {
+             "local_code": "Huyện Yên Mỹ",
+             "iso_code": "VN-66-1"
+        },
+        "Tien Lu District": {
+             "local_code": "Huyện Tiên Lữ",
+             "iso_code": "VN-66-1"
+        },
+        "Van Giang District": {
+             "local_code": "Huyện Văn Giang",
+             "iso_code": "VN-66-1"
+        },
+        "Van Lam District": {
+             "local_code": "Huyện Văn Lâm",
+             "iso_code": "VN-66-1"
+        }
+    } 
+} 

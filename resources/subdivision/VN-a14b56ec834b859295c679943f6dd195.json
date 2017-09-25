@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Đồng Nai"
+    ],
+    "subdivisions": { 
+        "Thành phố Biên Hòa": {
+             "local_code": "Thành phố Biên Hòa",
+             "iso_code": "1-1"
+        },
+        "Huyện Trảng Bom": {
+             "local_code": "Huyện Trảng Bom",
+             "iso_code": "1-2"
+        },
+        "Huyện Tân Phú": {
+             "local_code": "Huyện Tân Phú",
+             "iso_code": "1-3"
+        },
+        "Huyện Cẩm Mỹ": {
+             "local_code": "Huyện Cẩm Mỹ",
+             "iso_code": "1-4"
+        },
+        "Huyện Xuân Lộc": {
+             "local_code": "Huyện Xuân Lộc",
+             "iso_code": "1-5"
+        },
+        "Huyện Thống Nhất": {
+             "local_code": "Huyện Thống Nhất",
+             "iso_code": "1-6"
+        },
+        "Huyện Nhơn Trạch": {
+             "local_code": "Huyện Nhơn Trạch",
+             "iso_code": "1-7"
+        },
+        "Huyện Long Thành": {
+             "local_code": "Huyện Long Thành",
+             "iso_code": "1-8"
+        },
+        "Huyện Định Quán": {
+             "local_code": "Huyện Định Quán",
+             "iso_code": "1-9"
+        },
+        "Thị xã Long Khánh": {
+             "local_code": "Thị xã Long Khánh",
+             "iso_code": "1-10"
+        },
+        "Huyện Vĩnh Cửu": {
+             "local_code": "Huyện Vĩnh Cửu",
+             "iso_code": "1-11"
+        }
+    } 
+} 

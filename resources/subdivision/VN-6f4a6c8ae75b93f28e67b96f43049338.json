@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bắc Giang"
+    ],
+    "subdivisions": { 
+        "Thành phố Bắc Giang": {
+             "local_code": "Thành phố Bắc Giang",
+             "iso_code": "1-1"
+        },
+        "Huyện Hiệp Hòa": {
+             "local_code": "Huyện Hiệp Hòa",
+             "iso_code": "1-2"
+        },
+        "Huyện Lạng Giang": {
+             "local_code": "Huyện Lạng Giang",
+             "iso_code": "1-3"
+        },
+        "Huyện Sơn Động": {
+             "local_code": "Huyện Sơn Động",
+             "iso_code": "1-4"
+        },
+        "Huyện Tân Yên": {
+             "local_code": "Huyện Tân Yên",
+             "iso_code": "1-5"
+        },
+        "Huyện Việt Yên": {
+             "local_code": "Huyện Việt Yên",
+             "iso_code": "1-6"
+        },
+        "Huyện Yên Dũng": {
+             "local_code": "Huyện Yên Dũng",
+             "iso_code": "1-7"
+        },
+        "Huyện Yên Thế": {
+             "local_code": "Huyện Yên Thế",
+             "iso_code": "1-8"
+        },
+        "Huyện Lục Nam": {
+             "local_code": "Huyện Lục Nam",
+             "iso_code": "1-9"
+        },
+        "Huyện Lục Ngạn": {
+             "local_code": "Huyện Lục Ngạn",
+             "iso_code": "1-10"
+        }
+    } 
+} 

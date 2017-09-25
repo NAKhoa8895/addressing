@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Sóc Trăng"
+    ],
+    "subdivisions": { 
+        "Thành phố Sóc Trăng": {
+             "local_code": "Thành phố Sóc Trăng",
+             "iso_code": "1-1"
+        },
+        "Huyện Mỹ Xuyên": {
+             "local_code": "Huyện Mỹ Xuyên",
+             "iso_code": "1-2"
+        },
+        "Huyện Long Phú": {
+             "local_code": "Huyện Long Phú",
+             "iso_code": "1-3"
+        },
+        "Huyện Mỹ Tú": {
+             "local_code": "Huyện Mỹ Tú",
+             "iso_code": "1-4"
+        },
+        "Huyện Thạnh Trị": {
+             "local_code": "Huyện Thạnh Trị",
+             "iso_code": "1-5"
+        },
+        "Thị xã Vĩnh Châu": {
+             "local_code": "Thị xã Vĩnh Châu",
+             "iso_code": "1-6"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-7"
+        },
+        "Huyện Kế Sách": {
+             "local_code": "Huyện Kế Sách",
+             "iso_code": "1-8"
+        },
+        "Huyện Trần Đề": {
+             "local_code": "Huyện Trần Đề",
+             "iso_code": "1-9"
+        },
+        "Thị xã Ngã Năm": {
+             "local_code": "Thị xã Ngã Năm",
+             "iso_code": "1-10"
+        },
+        "Huyện Cù Lao Dung": {
+             "local_code": "Huyện Cù Lao Dung",
+             "iso_code": "1-11"
+        }
+    } 
+} 

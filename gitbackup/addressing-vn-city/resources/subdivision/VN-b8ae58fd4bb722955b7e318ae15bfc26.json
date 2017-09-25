@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Yen Bai Province"
+    ],
+    "subdivisions": { 
+        "Yen Bai City": {
+             "local_code": "Thành phố Yên Bái",
+             "iso_code": "VN-06-1"
+        },
+        "Tram Tau District": {
+             "local_code": "Huyện Trạm Tấu",
+             "iso_code": "VN-06-1"
+        },
+        "Yen Binh District": {
+             "local_code": "Huyện Yên Bình",
+             "iso_code": "VN-06-1"
+        },
+        "Luc Yen District": {
+             "local_code": "Huyện Lục Yên",
+             "iso_code": "VN-06-1"
+        },
+        "Mu Cang Chai District": {
+             "local_code": "Huyện Mù Cang Chải",
+             "iso_code": "VN-06-1"
+        },
+        "Tran Yen District": {
+             "local_code": "Huyện Trấn Yên",
+             "iso_code": "VN-06-1"
+        },
+        "Van Chan District": {
+             "local_code": "Huyện Văn Chấn",
+             "iso_code": "VN-06-1"
+        },
+        "Van Yen District": {
+             "local_code": "Huyện Văn Yên",
+             "iso_code": "VN-06-1"
+        },
+        "Nghia Lo Town": {
+             "local_code": "Thị xã Nghĩa Lộ",
+             "iso_code": "VN-06-1"
+        }
+    } 
+} 

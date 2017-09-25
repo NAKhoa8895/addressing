@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thái Bình"
+    ],
+    "subdivisions": { 
+        "Huyện Đông Hưng": {
+             "local_code": "Huyện Đông Hưng",
+             "iso_code": "1-1"
+        },
+        "Huyện Vũ Thư": {
+             "local_code": "Huyện Vũ Thư",
+             "iso_code": "1-2"
+        },
+        "Thành phố Thái Bình": {
+             "local_code": "Thành phố Thái Bình",
+             "iso_code": "1-3"
+        },
+        "Huyện Hưng Hà": {
+             "local_code": "Huyện Hưng Hà",
+             "iso_code": "1-4"
+        },
+        "Huyện Quỳnh Phụ": {
+             "local_code": "Huyện Quỳnh Phụ",
+             "iso_code": "1-5"
+        },
+        "Huyện Thái Thụy": {
+             "local_code": "Huyện Thái Thụy",
+             "iso_code": "1-6"
+        },
+        "Huyện Tiền Hải": {
+             "local_code": "Huyện Tiền Hải",
+             "iso_code": "1-7"
+        },
+        "Huyện Kiến Xương": {
+             "local_code": "Huyện Kiến Xương",
+             "iso_code": "1-8"
+        }
+    } 
+} 

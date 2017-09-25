@@ -1,0 +1,65 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Quảng Ninh"
+    ],
+    "subdivisions": { 
+        "Thành phố Cẩm Phả": {
+             "local_code": "Thành phố Cẩm Phả",
+             "iso_code": "1-1"
+        },
+        "Thành phố Uông Bí": {
+             "local_code": "Thành phố Uông Bí",
+             "iso_code": "1-2"
+        },
+        "Thành phố Móng Cái": {
+             "local_code": "Thành phố Móng Cái",
+             "iso_code": "1-3"
+        },
+        "Thành phố Hạ Long": {
+             "local_code": "Thành phố Hạ Long",
+             "iso_code": "1-4"
+        },
+        "Huyện Bình Liêu": {
+             "local_code": "Huyện Bình Liêu",
+             "iso_code": "1-5"
+        },
+        "Huyện Ba Chẽ": {
+             "local_code": "Huyện Ba Chẽ",
+             "iso_code": "1-6"
+        },
+        "Huyện đảo Vân Đồn": {
+             "local_code": "Huyện đảo Vân Đồn",
+             "iso_code": "1-7"
+        },
+        "Huyện Hải Hà": {
+             "local_code": "Huyện Hải Hà",
+             "iso_code": "1-8"
+        },
+        "Huyện Đông Triều": {
+             "local_code": "Huyện Đông Triều",
+             "iso_code": "1-9"
+        },
+        "Huyện Hoành Bồ": {
+             "local_code": "Huyện Hoành Bồ",
+             "iso_code": "1-10"
+        },
+        "Huyện Đầm Hà": {
+             "local_code": "Huyện Đầm Hà",
+             "iso_code": "1-11"
+        },
+        "Huyện Tiên Yên": {
+             "local_code": "Huyện Tiên Yên",
+             "iso_code": "1-12"
+        },
+        "Thị xã Quảng Yên": {
+             "local_code": "Thị xã Quảng Yên",
+             "iso_code": "1-13"
+        },
+        "Huyện đảo Cô Tô": {
+             "local_code": "Huyện đảo Cô Tô",
+             "iso_code": "1-14"
+        }
+    } 
+} 

@@ -1,0 +1,61 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Ha Tinh Province"
+    ],
+    "subdivisions": { 
+        "Ha Tinh City": {
+             "local_code": "Thành phố Hà Tĩnh",
+             "iso_code": "VN-23-1"
+        },
+        "Vu Quang District": {
+             "local_code": "Huyện Vũ Quang",
+             "iso_code": "VN-23-1"
+        },
+        "Loc Ha District": {
+             "local_code": "Huyện Lộc Hà",
+             "iso_code": "VN-23-1"
+        },
+        "Ky Anh District": {
+             "local_code": "Huyện Kỳ Anh",
+             "iso_code": "VN-23-1"
+        },
+        "Huong Khe District": {
+             "local_code": "Huyện Hương Khê",
+             "iso_code": "VN-23-1"
+        },
+        "Nghi Xuan District": {
+             "local_code": "Huyện Nghi Xuân",
+             "iso_code": "VN-23-1"
+        },
+        "Hong Linh Town": {
+             "local_code": "Thị xã Hồng Lĩnh",
+             "iso_code": "VN-23-1"
+        },
+        "Cam Xuyen District": {
+             "local_code": "Huyện Cẩm Xuyên",
+             "iso_code": "VN-23-1"
+        },
+        "Duc Tho District": {
+             "local_code": "Huyện Đức Thọ",
+             "iso_code": "VN-23-1"
+        },
+        "Can Loc District": {
+             "local_code": "Huyện Can Lộc",
+             "iso_code": "VN-23-1"
+        },
+        "Huong Son District": {
+             "local_code": "Huyện Hương Sơn",
+             "iso_code": "VN-23-1"
+        },
+        "Ky Anh Town": {
+             "local_code": "Thị xã Kỳ Anh",
+             "iso_code": "VN-23-1"
+        },
+        "Thach Ha District": {
+             "local_code": "Huyện Thạch Hà",
+             "iso_code": "VN-23-1"
+        }
+    } 
+} 

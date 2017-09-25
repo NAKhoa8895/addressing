@@ -1,0 +1,77 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Gia Lai Province"
+    ],
+    "subdivisions": { 
+        "Pleiku City": {
+             "local_code": "Thành phố Pleiku",
+             "iso_code": "VN-30-1"
+        },
+        "Kbang District": {
+             "local_code": "Huyện Kbang",
+             "iso_code": "VN-30-1"
+        },
+        "Kong Chro District": {
+             "local_code": "Huyện Kông Chro",
+             "iso_code": "VN-30-1"
+        },
+        "Krong Pa District": {
+             "local_code": "Huyện Krông Pa",
+             "iso_code": "VN-30-1"
+        },
+        "Mang Yang District": {
+             "local_code": "Huyện Mang Yang",
+             "iso_code": "VN-30-1"
+        },
+        "Ia Grai District": {
+             "local_code": "Huyện Ia Grai",
+             "iso_code": "VN-30-1"
+        },
+        "Duc Co District": {
+             "local_code": "Huyện Đức Cơ",
+             "iso_code": "VN-30-1"
+        },
+        "Chu Prong District": {
+             "local_code": "Huyện Chư Prông",
+             "iso_code": "VN-30-1"
+        },
+        "Chu Se District": {
+             "local_code": "Huyện Chư Sê",
+             "iso_code": "VN-30-1"
+        },
+        "Phu Thien District": {
+             "local_code": "Huyện Phú Thiện",
+             "iso_code": "VN-30-1"
+        },
+        "Ayun Pa Town": {
+             "local_code": "Thị xã Ayun Pa",
+             "iso_code": "VN-30-1"
+        },
+        "Ia Pa District": {
+             "local_code": "Huyện Ia Pa",
+             "iso_code": "VN-30-1"
+        },
+        "An Khe Town": {
+             "local_code": "Thị xã An Khê",
+             "iso_code": "VN-30-1"
+        },
+        "Chu Pah District": {
+             "local_code": "Huyện Chư Păh",
+             "iso_code": "VN-30-1"
+        },
+        "Chu Puh District": {
+             "local_code": "Huyện Chư Pưh",
+             "iso_code": "VN-30-1"
+        },
+        "Dak Doa District": {
+             "local_code": "Huyện Đắk Đoa",
+             "iso_code": "VN-30-1"
+        },
+        "Dak Po District": {
+             "local_code": "Huyện Đắk Pơ",
+             "iso_code": "VN-30-1"
+        }
+    } 
+} 

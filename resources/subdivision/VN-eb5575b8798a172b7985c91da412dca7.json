@@ -1,0 +1,57 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Lâm Đồng"
+    ],
+    "subdivisions": { 
+        "Thành phố Đà Lạt": {
+             "local_code": "Thành phố Đà Lạt",
+             "iso_code": "1-1"
+        },
+        "Huyện Đơn Dương": {
+             "local_code": "Huyện Đơn Dương",
+             "iso_code": "1-2"
+        },
+        "Huyện Đức Trọng": {
+             "local_code": "Huyện Đức Trọng",
+             "iso_code": "1-3"
+        },
+        "Thành phố Bảo Lộc": {
+             "local_code": "Thành phố Bảo Lộc",
+             "iso_code": "1-4"
+        },
+        "Huyện Bảo Lâm": {
+             "local_code": "Huyện Bảo Lâm",
+             "iso_code": "1-5"
+        },
+        "Huyện Đam Rông": {
+             "local_code": "Huyện Đam Rông",
+             "iso_code": "1-6"
+        },
+        "Huyện Lạc Dương": {
+             "local_code": "Huyện Lạc Dương",
+             "iso_code": "1-7"
+        },
+        "Huyện Lâm Hà": {
+             "local_code": "Huyện Lâm Hà",
+             "iso_code": "1-8"
+        },
+        "Huyện Di Linh": {
+             "local_code": "Huyện Di Linh",
+             "iso_code": "1-9"
+        },
+        "Huyện Cát Tiên": {
+             "local_code": "Huyện Cát Tiên",
+             "iso_code": "1-10"
+        },
+        "Huyện Đạ Huoai": {
+             "local_code": "Huyện Đạ Huoai",
+             "iso_code": "1-11"
+        },
+        "Huyện Đạ Tẻh": {
+             "local_code": "Huyện Đạ Tẻh",
+             "iso_code": "1-12"
+        }
+    } 
+} 

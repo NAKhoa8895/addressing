@@ -1,0 +1,61 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hà Tĩnh"
+    ],
+    "subdivisions": { 
+        "Thành phố Hà Tĩnh": {
+             "local_code": "Thành phố Hà Tĩnh",
+             "iso_code": "1-1"
+        },
+        "Huyện Vũ Quang": {
+             "local_code": "Huyện Vũ Quang",
+             "iso_code": "1-2"
+        },
+        "Huyện Lộc Hà": {
+             "local_code": "Huyện Lộc Hà",
+             "iso_code": "1-3"
+        },
+        "Huyện Kỳ Anh": {
+             "local_code": "Huyện Kỳ Anh",
+             "iso_code": "1-4"
+        },
+        "Huyện Hương Khê": {
+             "local_code": "Huyện Hương Khê",
+             "iso_code": "1-5"
+        },
+        "Huyện Nghi Xuân": {
+             "local_code": "Huyện Nghi Xuân",
+             "iso_code": "1-6"
+        },
+        "Thị xã Hồng Lĩnh": {
+             "local_code": "Thị xã Hồng Lĩnh",
+             "iso_code": "1-7"
+        },
+        "Huyện Cẩm Xuyên": {
+             "local_code": "Huyện Cẩm Xuyên",
+             "iso_code": "1-8"
+        },
+        "Huyện Đức Thọ": {
+             "local_code": "Huyện Đức Thọ",
+             "iso_code": "1-9"
+        },
+        "Huyện Can Lộc": {
+             "local_code": "Huyện Can Lộc",
+             "iso_code": "1-10"
+        },
+        "Huyện Hương Sơn": {
+             "local_code": "Huyện Hương Sơn",
+             "iso_code": "1-11"
+        },
+        "Thị xã Kỳ Anh": {
+             "local_code": "Thị xã Kỳ Anh",
+             "iso_code": "1-12"
+        },
+        "Huyện Thạch Hà": {
+             "local_code": "Huyện Thạch Hà",
+             "iso_code": "1-13"
+        }
+    } 
+} 

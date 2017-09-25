@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Yên Bái"
+    ],
+    "subdivisions": { 
+        "Thành phố Yên Bái": {
+             "local_code": "Thành phố Yên Bái",
+             "iso_code": "1-1"
+        },
+        "Huyện Trạm Tấu": {
+             "local_code": "Huyện Trạm Tấu",
+             "iso_code": "1-2"
+        },
+        "Huyện Yên Bình": {
+             "local_code": "Huyện Yên Bình",
+             "iso_code": "1-3"
+        },
+        "Huyện Lục Yên": {
+             "local_code": "Huyện Lục Yên",
+             "iso_code": "1-4"
+        },
+        "Huyện Mù Cang Chải": {
+             "local_code": "Huyện Mù Cang Chải",
+             "iso_code": "1-5"
+        },
+        "Huyện Trấn Yên": {
+             "local_code": "Huyện Trấn Yên",
+             "iso_code": "1-6"
+        },
+        "Huyện Văn Chấn": {
+             "local_code": "Huyện Văn Chấn",
+             "iso_code": "1-7"
+        },
+        "Huyện Văn Yên": {
+             "local_code": "Huyện Văn Yên",
+             "iso_code": "1-8"
+        },
+        "Thị xã Nghĩa Lộ": {
+             "local_code": "Thị xã Nghĩa Lộ",
+             "iso_code": "1-9"
+        }
+    } 
+} 

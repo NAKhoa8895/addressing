@@ -1,0 +1,49 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Hưng Yên"
+    ],
+    "subdivisions": { 
+        "Thành phố Hưng Yên": {
+             "local_code": "Thành phố Hưng Yên",
+             "iso_code": "1-1"
+        },
+        "Huyện Kim Động": {
+             "local_code": "Huyện Kim Động",
+             "iso_code": "1-2"
+        },
+        "Huyện Phù Cừ": {
+             "local_code": "Huyện Phù Cừ",
+             "iso_code": "1-3"
+        },
+        "Huyện Ân Thi": {
+             "local_code": "Huyện Ân Thi",
+             "iso_code": "1-4"
+        },
+        "Huyện Khoái Châu": {
+             "local_code": "Huyện Khoái Châu",
+             "iso_code": "1-5"
+        },
+        "Huyện Mỹ Hào": {
+             "local_code": "Huyện Mỹ Hào",
+             "iso_code": "1-6"
+        },
+        "Huyện Yên Mỹ": {
+             "local_code": "Huyện Yên Mỹ",
+             "iso_code": "1-7"
+        },
+        "Huyện Tiên Lữ": {
+             "local_code": "Huyện Tiên Lữ",
+             "iso_code": "1-8"
+        },
+        "Huyện Văn Giang": {
+             "local_code": "Huyện Văn Giang",
+             "iso_code": "1-9"
+        },
+        "Huyện Văn Lâm": {
+             "local_code": "Huyện Văn Lâm",
+             "iso_code": "1-10"
+        }
+    } 
+} 

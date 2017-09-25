@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thai Nguyen Province"
+    ],
+    "subdivisions": { 
+        "Dong Hy District": {
+             "local_code": "Huyện Đồng Hỷ",
+             "iso_code": "VN-69-1"
+        },
+        "Phu Luong District": {
+             "local_code": "Huyện Phú Lương",
+             "iso_code": "VN-69-1"
+        },
+        "Thai Nguyen City": {
+             "local_code": "Thành phố Thái Nguyên",
+             "iso_code": "VN-69-1"
+        },
+        "Song Cong Town": {
+             "local_code": "Thị xã Sông Công",
+             "iso_code": "VN-69-1"
+        },
+        "Dai Tu District": {
+             "local_code": "Huyện Đại Từ",
+             "iso_code": "VN-69-1"
+        },
+        "Dinh Hoa District": {
+             "local_code": "Huyện Định Hóa",
+             "iso_code": "VN-69-1"
+        },
+        "Pho Yen District": {
+             "local_code": "Huyện Phổ Yên",
+             "iso_code": "VN-69-1"
+        },
+        "Phu Binh District": {
+             "local_code": "Huyện Phú Bình",
+             "iso_code": "VN-69-1"
+        },
+        "Vo Nhai District": {
+             "local_code": "Huyện Võ Nhai",
+             "iso_code": "VN-69-1"
+        }
+    } 
+} 

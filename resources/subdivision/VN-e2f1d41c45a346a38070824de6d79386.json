@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Tiền Giang"
+    ],
+    "subdivisions": { 
+        "Thành phố Mỹ Tho": {
+             "local_code": "Thành phố Mỹ Tho",
+             "iso_code": "1-1"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-2"
+        },
+        "Huyện Chợ Gạo": {
+             "local_code": "Huyện Chợ Gạo",
+             "iso_code": "1-3"
+        },
+        "Huyện Cái Bè": {
+             "local_code": "Huyện Cái Bè",
+             "iso_code": "1-4"
+        },
+        "Huyện Tân Phú Đông": {
+             "local_code": "Huyện Tân Phú Đông",
+             "iso_code": "1-5"
+        },
+        "Huyện Gò Công Đông": {
+             "local_code": "Huyện Gò Công Đông",
+             "iso_code": "1-6"
+        },
+        "Huyện Gò Công Tây": {
+             "local_code": "Huyện Gò Công Tây",
+             "iso_code": "1-7"
+        },
+        "Huyện Tân Phước": {
+             "local_code": "Huyện Tân Phước",
+             "iso_code": "1-8"
+        },
+        "Thị xã Cai Lậy": {
+             "local_code": "Thị xã Cai Lậy",
+             "iso_code": "1-9"
+        },
+        "Thị xã Gò Công": {
+             "local_code": "Thị xã Gò Công",
+             "iso_code": "1-10"
+        },
+        "Huyện Cai Lậy": {
+             "local_code": "Huyện Cai Lậy",
+             "iso_code": "1-11"
+        }
+    } 
+} 

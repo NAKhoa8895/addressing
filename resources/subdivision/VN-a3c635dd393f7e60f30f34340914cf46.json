@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Tây Ninh"
+    ],
+    "subdivisions": { 
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-1"
+        },
+        "Huyện Hòa Thành": {
+             "local_code": "Huyện Hòa Thành",
+             "iso_code": "1-2"
+        },
+        "Huyện Tân Biên": {
+             "local_code": "Huyện Tân Biên",
+             "iso_code": "1-3"
+        },
+        "Huyện Tân Châu": {
+             "local_code": "Huyện Tân Châu",
+             "iso_code": "1-4"
+        },
+        "Huyện Dương Minh Châu": {
+             "local_code": "Huyện Dương Minh Châu",
+             "iso_code": "1-5"
+        },
+        "Huyện Bến Cầu": {
+             "local_code": "Huyện Bến Cầu",
+             "iso_code": "1-6"
+        },
+        "Huyện Gò Dầu": {
+             "local_code": "Huyện Gò Dầu",
+             "iso_code": "1-7"
+        },
+        "Thành phố Tây Ninh": {
+             "local_code": "Thành phố Tây Ninh",
+             "iso_code": "1-8"
+        },
+        "Huyện Trảng Bàng": {
+             "local_code": "Huyện Trảng Bàng",
+             "iso_code": "1-9"
+        }
+    } 
+} 

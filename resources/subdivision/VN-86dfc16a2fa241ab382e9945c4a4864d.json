@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bến Tre"
+    ],
+    "subdivisions": { 
+        "Thành phố Bến Tre": {
+             "local_code": "Thành phố Bến Tre",
+             "iso_code": "1-1"
+        },
+        "Huyện Châu Thành": {
+             "local_code": "Huyện Châu Thành",
+             "iso_code": "1-2"
+        },
+        "Huyện Ba Tri": {
+             "local_code": "Huyện Ba Tri",
+             "iso_code": "1-3"
+        },
+        "Huyện Bình Đại": {
+             "local_code": "Huyện Bình Đại",
+             "iso_code": "1-4"
+        },
+        "Huyện Chợ Lách": {
+             "local_code": "Huyện Chợ Lách",
+             "iso_code": "1-5"
+        },
+        "Huyện Giồng Trôm": {
+             "local_code": "Huyện Giồng Trôm",
+             "iso_code": "1-6"
+        },
+        "Huyện Mỏ Cày Bắc": {
+             "local_code": "Huyện Mỏ Cày Bắc",
+             "iso_code": "1-7"
+        },
+        "Huyện Mỏ Cày Nam": {
+             "local_code": "Huyện Mỏ Cày Nam",
+             "iso_code": "1-8"
+        },
+        "Huyện Thạnh Phú": {
+             "local_code": "Huyện Thạnh Phú",
+             "iso_code": "1-9"
+        }
+    } 
+} 

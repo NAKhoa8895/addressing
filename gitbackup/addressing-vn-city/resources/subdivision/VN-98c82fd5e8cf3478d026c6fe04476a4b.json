@@ -1,0 +1,37 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Tuyen Quang Province"
+    ],
+    "subdivisions": { 
+        "Yen Son District": {
+             "local_code": "Huyện Yên Sơn",
+             "iso_code": "VN-07-1"
+        },
+        "Tuyen Quang City": {
+             "local_code": "Thành phố Tuyên Quang",
+             "iso_code": "VN-07-1"
+        },
+        "Chiem Hoa District": {
+             "local_code": "Huyện Chiêm Hóa",
+             "iso_code": "VN-07-1"
+        },
+        "Son Duong District": {
+             "local_code": "Huyện Sơn Dương",
+             "iso_code": "VN-07-1"
+        },
+        "Ham Yen District": {
+             "local_code": "Huyện Hàm Yên",
+             "iso_code": "VN-07-1"
+        },
+        "Lam Binh District": {
+             "local_code": "Huyện Lâm Bình",
+             "iso_code": "VN-07-1"
+        },
+        "Na Hang District": {
+             "local_code": "Huyện Na Hang",
+             "iso_code": "VN-07-1"
+        }
+    } 
+} 

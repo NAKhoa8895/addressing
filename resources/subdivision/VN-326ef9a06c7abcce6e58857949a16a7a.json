@@ -1,0 +1,45 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Thái Nguyên"
+    ],
+    "subdivisions": { 
+        "Huyện Đồng Hỷ": {
+             "local_code": "Huyện Đồng Hỷ",
+             "iso_code": "1-1"
+        },
+        "Huyện Phú Lương": {
+             "local_code": "Huyện Phú Lương",
+             "iso_code": "1-2"
+        },
+        "Thành phố Thái Nguyên": {
+             "local_code": "Thành phố Thái Nguyên",
+             "iso_code": "1-3"
+        },
+        "Thị xã Sông Công": {
+             "local_code": "Thị xã Sông Công",
+             "iso_code": "1-4"
+        },
+        "Huyện Đại Từ": {
+             "local_code": "Huyện Đại Từ",
+             "iso_code": "1-5"
+        },
+        "Huyện Định Hóa": {
+             "local_code": "Huyện Định Hóa",
+             "iso_code": "1-6"
+        },
+        "Huyện Phổ Yên": {
+             "local_code": "Huyện Phổ Yên",
+             "iso_code": "1-7"
+        },
+        "Huyện Phú Bình": {
+             "local_code": "Huyện Phú Bình",
+             "iso_code": "1-8"
+        },
+        "Huyện Võ Nhai": {
+             "local_code": "Huyện Võ Nhai",
+             "iso_code": "1-9"
+        }
+    } 
+} 

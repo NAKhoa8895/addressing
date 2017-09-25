@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Cà Mau"
+    ],
+    "subdivisions": { 
+        "Thành phố Cà Mau": {
+             "local_code": "Thành phố Cà Mau",
+             "iso_code": "1-1"
+        },
+        "Huyện Phú Tân": {
+             "local_code": "Huyện Phú Tân",
+             "iso_code": "1-2"
+        },
+        "Huyện Cái Nước": {
+             "local_code": "Huyện Cái Nước",
+             "iso_code": "1-3"
+        },
+        "Huyện Thới Bình": {
+             "local_code": "Huyện Thới Bình",
+             "iso_code": "1-4"
+        },
+        "Huyện Năm Căn": {
+             "local_code": "Huyện Năm Căn",
+             "iso_code": "1-5"
+        },
+        "Huyện Đầm Dơi": {
+             "local_code": "Huyện Đầm Dơi",
+             "iso_code": "1-6"
+        },
+        "Huyện Trần Văn Thời": {
+             "local_code": "Huyện Trần Văn Thời",
+             "iso_code": "1-7"
+        },
+        "Huyện U Minh": {
+             "local_code": "Huyện U Minh",
+             "iso_code": "1-8"
+        }
+    } 
+} 

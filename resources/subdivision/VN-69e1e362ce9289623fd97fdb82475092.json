@@ -1,0 +1,53 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Bình Phước"
+    ],
+    "subdivisions": { 
+        "Huyện Đồng Phú": {
+             "local_code": "Huyện Đồng Phú",
+             "iso_code": "1-1"
+        },
+        "Huyện Bù Đăng": {
+             "local_code": "Huyện Bù Đăng",
+             "iso_code": "1-2"
+        },
+        "Huyện Bù Gia Mập": {
+             "local_code": "Huyện Bù Gia Mập",
+             "iso_code": "1-3"
+        },
+        "Thị xã Đồng Xoài": {
+             "local_code": "Thị xã Đồng Xoài",
+             "iso_code": "1-4"
+        },
+        "Huyện Chơn Thành": {
+             "local_code": "Huyện Chơn Thành",
+             "iso_code": "1-5"
+        },
+        "Huyện Hớn Quản": {
+             "local_code": "Huyện Hớn Quản",
+             "iso_code": "1-6"
+        },
+        "Thị xã Bình Long": {
+             "local_code": "Thị xã Bình Long",
+             "iso_code": "1-7"
+        },
+        "Thị xã Phước Long": {
+             "local_code": "Thị xã Phước Long",
+             "iso_code": "1-8"
+        },
+        "Huyện Lộc Ninh": {
+             "local_code": "Huyện Lộc Ninh",
+             "iso_code": "1-9"
+        },
+        "Huyện Bù Đốp": {
+             "local_code": "Huyện Bù Đốp",
+             "iso_code": "1-10"
+        },
+        "Huyện Phú Riềng": {
+             "local_code": "Huyện Phú Riềng",
+             "iso_code": "1-11"
+        }
+    } 
+} 

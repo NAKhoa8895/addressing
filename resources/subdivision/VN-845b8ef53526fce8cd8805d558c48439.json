@@ -1,0 +1,41 @@
+{ 
+    "country_code": "VN",
+    "parents": [ 
+        "VN", 
+        "Khánh Hòa"
+    ],
+    "subdivisions": { 
+        "Thành phố Nha Trang": {
+             "local_code": "Thành phố Nha Trang",
+             "iso_code": "1-1"
+        },
+        "Thành phố Cam Ranh": {
+             "local_code": "Thành phố Cam Ranh",
+             "iso_code": "1-2"
+        },
+        "Huyện Diên Khánh": {
+             "local_code": "Huyện Diên Khánh",
+             "iso_code": "1-3"
+        },
+        "Huyện Cam Lâm": {
+             "local_code": "Huyện Cam Lâm",
+             "iso_code": "1-4"
+        },
+        "Huyện Vạn Ninh": {
+             "local_code": "Huyện Vạn Ninh",
+             "iso_code": "1-5"
+        },
+        "Huyện Khánh Vĩnh": {
+             "local_code": "Huyện Khánh Vĩnh",
+             "iso_code": "1-6"
+        },
+        "Huyện Khánh Sơn": {
+             "local_code": "Huyện Khánh Sơn",
+             "iso_code": "1-7"
+        },
+        "Thị xã Ninh Hòa": {
+             "local_code": "Thị xã Ninh Hòa",
+             "iso_code": "1-8"
+        }
+    } 
+} 
