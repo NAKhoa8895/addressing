@@ -1465,6 +1465,9 @@ class AddressFormatRepository implements AddressFormatRepositoryInterface
             'VN' => [
                 'format' => "%givenName %familyName\n%organization\n%addressLine1\n%addressLine2\n%postalCode %locality\n%administrativeArea",
                 'postal_code_pattern' => '\d{6}',
+                'required_fields' => [
+                    'addressLine1', 'locality', 'administrativeArea',
+                ],
                 'subdivision_depth' => 2,
             ],
             'WF' => [
